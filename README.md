@@ -9,6 +9,7 @@ I am Max, a **Full Stack Developer** and a 3rd-year student at **National Resear
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 - **Frontend Development:**  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -42,7 +43,7 @@ I am Max, a **Full Stack Developer** and a 3rd-year student at **National Resear
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kxrma47&show_icons=true&theme=dark)
 
 ### 📚 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kxrma47&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kxrma47&layout=compact&theme=dark&langs_count=10)
 
 ### 📫 How to reach me:
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Kxrma47)  
