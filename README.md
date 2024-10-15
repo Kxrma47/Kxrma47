@@ -48,3 +48,5 @@ I am Max, a **Full Stack Developer** and a 3rd-year student at **National Resear
 ### 📫 How to reach me:
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Kxrma47)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wadupdog)
+
+
