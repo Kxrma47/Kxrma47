@@ -37,7 +37,7 @@ I am Max, a **Full Stack Developer** and a 3rd-year student at **National Resear
 
 ### 🏢 Work Experience:
 - **Worked for Barcelo LTD** (Before sanctions).
-- **Internship under HSE University** in 2024, where I worked on [relevant project details, if any].
+- **Internship under HSE University** in 2024, where I worked on Kotlin and Android app dev
 
 ### 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kxrma47&show_icons=true&theme=dark)
