@@ -1,6 +1,4 @@
-Absolutely—here’s your **copy-paste-ready README.md** with **MySQL**, **Apache**, **Deep Learning / Machine Learning / Statistics & Data Modeling**, and **Quantum (Grover’s algorithm)** added. I kept it clean, aesthetic, and animated. 🕶️
 
----
 
 # Hi there, I’m Max 👋
 
