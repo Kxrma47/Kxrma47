@@ -9,7 +9,7 @@
 
 <p align="center">
   <video width="100%" autoplay loop muted playsinline controls
-         src="Dont.mp4">
+         src="[Dont.mp4](https://github.com/Kxrma47/Kxrma47/blob/main/Dont.mp4)">
   </video>
 </p>
 
