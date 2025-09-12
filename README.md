@@ -7,10 +7,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@wadupdog-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wadupdog)
 ![Profile Views](https://komarev.com/ghpvc/?username=Kxrma47&style=for-the-badge)
 
-<p align="center">
-  <img src="./threatscape.svg" alt="Threatscape Matrix" width="100%">
-</p>
-
 ---
 
 ## ✨ Snapshot
