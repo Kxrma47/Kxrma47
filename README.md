@@ -8,11 +8,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Kxrma47&style=for-the-badge)
 
 <p align="center">
-  <video width="100%" autoplay loop muted playsinline controls
-         src="[Dont.mp4](https://github.com/Kxrma47/Kxrma47/blob/main/Dont.mp4)">
-  </video>
+  <img src="./ascii-art.png" width="700" alt="Code portrait made of symbols" />
 </p>
-
 ---
 
 ## ✨ Snapshot
