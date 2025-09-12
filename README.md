@@ -7,11 +7,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@wadupdog-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wadupdog)
 ![Profile Views](https://komarev.com/ghpvc/?username=Kxrma47&style=for-the-badge)
 
-<p align="center">
-  <a href="https://kxrma47.github.io/Kxrma47/ascii-art.html">
-    <img alt="Open live code portrait" src="https://img.shields.io/badge/Open%20Live%20Code%20Portrait-00ff99?style=for-the-badge">
-  </a>
-</p>
+
 ---
 
 ## ✨ Snapshot
