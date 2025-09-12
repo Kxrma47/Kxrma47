@@ -8,7 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Kxrma47&style=for-the-badge)
 
 <p align="center">
-  <img src="./ascii-art.html" width="700" alt="Code portrait (SVG)" />
+  <a href="https://kxrma47.github.io/Kxrma47/ascii-art.html">
+    <img alt="Open live code portrait" src="https://img.shields.io/badge/Open%20Live%20Code%20Portrait-00ff99?style=for-the-badge">
+  </a>
 </p>
 ---
 
