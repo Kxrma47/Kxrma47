@@ -8,7 +8,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Kxrma47&style=for-the-badge)
 
 <p align="center">
-  <video src="./Dont.mp4" width="100%" autoplay loop muted playsinline></video>
+  <video width="100%" autoplay loop muted playsinline controls
+         src="https://user-images.githubusercontent.com/123456789/your-uploaded-Dont.mp4">
+  </video>
 </p>
 
 ---
