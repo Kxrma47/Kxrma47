@@ -7,6 +7,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@wadupdog-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wadupdog)
 ![Profile Views](https://komarev.com/ghpvc/?username=Kxrma47&style=for-the-badge)
 
+<p align="center">
+  <video src="./Dont.mp4" width="100%" autoplay loop muted playsinline></video>
+</p>
+
 ---
 
 ## ✨ Snapshot
