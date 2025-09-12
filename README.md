@@ -8,7 +8,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Kxrma47&style=for-the-badge)
 
 <p align="center">
-  <img src="./ascii-art.png" width="700" alt="Code portrait made of symbols" />
+  <img src="./ascii-art.svg" width="700" alt="Code portrait (SVG)" />
 </p>
 ---
 
