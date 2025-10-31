@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kxrma47-000?style=for-the-badge&logo=github)](https://github.com/Kxrma47)
 [![Telegram](https://img.shields.io/badge/Telegram-@wadupdog-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wadupdog)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--3537--XXXX-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-3537-XXXX)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--3537--3794-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-3537-3794)
 [![Zenodo](https://img.shields.io/badge/Zenodo-Publication-1874CD?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/records/17427199)
 ![Profile Views](https://komarev.com/ghpvc/?username=Kxrma47&style=for-the-badge)
 
@@ -14,10 +14,10 @@
 
 ## ✨ Snapshot
 
-- Building systems that **organize**, **visualize**, and **automate**: scheduling, polls, data workflows, and interactive graphs.
-- Across the stack: API design, **SQL schema design**, data modeling, CI basics, and polished UIs with strong DX.
-- TA at HSE in **Databases** and **Mathematical Methods for Analysis**.
-- Extra focus: **Deep Learning**, **Machine Learning**, **Statistics & Data Modeling**, and **Quantum algorithms (Grover’s, fixed-point amplitude amplification)**.
+- Building systems that **organize**, **visualize**, and **automate**: scheduling, polls, data workflows, and interactive graphs.  
+- Across the stack: API design, **SQL schema design**, data modeling, CI basics, and polished UIs with strong DX.  
+- TA at HSE in **Databases** and **Mathematical Methods for Analysis**.  
+- Extra focus: **Deep Learning**, **Machine Learning**, **Statistics & Data Modeling**, and **Quantum algorithms (Grover’s, fixed-point amplification)**.  
 
 ---
 
@@ -26,24 +26,16 @@
 ### Defense Scheduler — HSE Moodle Plugin
 **Dynamic scheduling & voting system for defense commissions** (course projects, theses, retakes) within the official HSE Moodle LMS.
 
-- Professors propose availability, **vote** on commission times, and view **live statistics**.
-- Managers approve slots, form commissions, and trigger notifications.
-- Stack: **PHP (Moodle)** + **PostgreSQL** + lightweight JS; deployable with **Apache**.
+- Professors propose availability, **vote** on commission times, and view **live statistics**.  
+- Managers approve slots, form commissions, and trigger notifications.  
+- Stack: **PHP (Moodle)** + **PostgreSQL** + lightweight JS; deployable with **Apache**.  
 
-> **Formal description:**  
-> *Application for organizing student defense commissions on Moodle; a dynamic custom scheduling plugin for official LMS workflows covering project/defense and meeting management, with voting and statistical dashboards for professors and managers.*
-
----
-
-### Yandex **LAMBDA** Project (with HSE)
-- **ML model development** for **automated analysis of biological images** (classification/assistive analytics).  
-- Pipelines, dataset curation, baseline→advanced modeling with **DL/ML** best practices.  
-- **Official website coming soon.**
+> *Application for organizing student defense commissions on Moodle; a dynamic custom scheduling plugin covering project/defense management with voting and dashboards for professors and managers.*
 
 ---
 
 ### SolidJS + D3 Internship · HSE FCS (07/2024–08/2024)
-**Interactive visualization of model support in phylogenetics** (CUT&Tag context).
+**Interactive visualization of model support in phylogenetics** (CUT & Tag context).
 
 - Built a modular **graph visualizer** (SolidJS + TypeScript + D3) for relationships among models (e.g., bModelTest).  
 - Directed graphs with **model labels**, **support %**, **HPD color mapping**, zoom/filter/hover, and layout heuristics (topological layering, clustering).  
@@ -66,8 +58,8 @@
 ---
 
 ## 🧠 Quantum & Research
-- **Grover’s Algorithm**: circuit design & experimentation (Qiskit), marked-item search, oracle/diffusion construction.  
-- **Fixed-Point Amplitude Amplification**: iterations without overshoot; ancilla/flag design and uncomputation.  
+- **Grover’s Algorithm** – circuit design & experimentation (Qiskit), marked-item search, oracle/diffusion construction.  
+- **Fixed-Point Amplitude Amplification** – iterations without overshoot; ancilla/flag design and uncomputation.  
 - Interests: **quantum architecture & coding**, noise models, and hybrid classical–quantum workflows.
 
 ---
@@ -75,17 +67,17 @@
 ## 🧾 Publications
 
 **Defense Scheduler System v1.0.0**  
-Full-stack web application for academic defense session management and voting 
+Full-stack web application for academic defense session management and voting (Moodle plugin).  
 Published on [Zenodo](https://zenodo.org/records/17427199) — DOI: [10.5281/zenodo.17427199](https://doi.org/10.5281/zenodo.17427199)  
 Affiliation: *National Research University Higher School of Economics (HSE), Moscow*  
-ORCID: [0009-0008-3537-XXXX](https://orcid.org/0009-0008-3537-3794)
+ORCID: [0009-0008-3537-3794](https://orcid.org/0009-0008-3537-3794)
 
 ---
 
 ## 🧩 Selected Projects
 
 - **Meeting-Planning-Service** (Course Project, 10/2023–04/2024)  
-  Full-stack **web app** for scheduling between clients and businesses: accounts, business dashboards, analytics, and **QR-based bookings** with accept/reject/reschedule flows.  
+  Full-stack **web app** for scheduling between clients and businesses: accounts, dashboards, analytics, and **QR-based bookings** with accept/reject/reschedule flows.  
   Repo: `github.com/Kxrma47/Meeting-Planning-Service` · Demo video available.
 
 - **Moodle “Poll System” block** (defense commission context)  
@@ -100,7 +92,7 @@ ORCID: [0009-0008-3537-XXXX](https://orcid.org/0009-0008-3537-3794)
 **Backend:** Flask, PHP (Moodle), REST APIs, **Apache HTTP Server**  
 **Data & DB:** **PostgreSQL**, **MySQL**, SQLite, SQLAlchemy, PostGIS  
 **ML/DL:** PyTorch / TensorFlow (baselines), scikit-learn, experiment tracking  
-**Math & Stats:** regression / classification, cross-validation, feature engineering, uncertainty basics  
+**Math & Stats:** regression, classification, cross-validation, feature engineering, uncertainty basics  
 **Ops:** Docker, GitLab CI (tests, coverage/mutation testing)
 
 <p align="left">
@@ -157,19 +149,21 @@ ORCID: [0009-0008-3537-XXXX](https://orcid.org/0009-0008-3537-3794)
 
 ---
 
-## 🔭 What I’m exploring
+## 🔭 What I’m Exploring
 
-- Robust scheduling workflows (queues, retries, idempotency).
-- Visual explanations for complex models (phylogenetics, uncertainty).
-- Practical **ML/DL** for image-based biosample assistance.
-- **Quantum**: better oracles/diffusers, error-aware Grover iterations, hybrid runs.
+- Robust scheduling workflows (queues, retries, idempotency).  
+- Visual explanations for complex models (phylogenetics, uncertainty).  
+- Practical **ML/DL** for image-based biosample assistance.  
+- **Quantum:** better oracles/diffusers, error-aware Grover iterations, hybrid runs.  
 
 ---
 
 ## 📬 Contact
 
 - GitHub: [@Kxrma47](https://github.com/Kxrma47)  
-- Telegram: [@wadupdog](https://t.me/wadupdog)
+- Telegram: [@wadupdog](https://t.me/wadupdog)  
+- ORCID: [0009-0008-3537-3794](https://orcid.org/0009-0008-3537-3794)  
+- Publication: [Zenodo DOI: 10.5281/zenodo.17427199](https://doi.org/10.5281/zenodo.17427199)
 
 ---
 
