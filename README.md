@@ -1,12 +1,14 @@
 # Hi there, I’m Max 👋
 
 > Full-Stack Developer · 4th-year B.Sc. in Software Engineering @ **NRU HSE (Moscow)**  
-> Backend → Python/Flask, PHP, SQL · Frontend → TS/React/SolidJS/D3 · Data/ML & Quantum curious
+> Backend → Python/Flask, PHP, SQL · Frontend → TS/React/SolidJS/D3 · Data/ML & Quantum curious  
+> [ORCID: 0009-0008-3537-XXXX](https://orcid.org/0009-0008-3537-XXXX)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kxrma47-000?style=for-the-badge&logo=github)](https://github.com/Kxrma47)
 [![Telegram](https://img.shields.io/badge/Telegram-@wadupdog-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wadupdog)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--3537--XXXX-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-3537-XXXX)
+[![Zenodo](https://img.shields.io/badge/Zenodo-Publication-1874CD?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/records/17427199)
 ![Profile Views](https://komarev.com/ghpvc/?username=Kxrma47&style=for-the-badge)
-
 
 ---
 
@@ -67,6 +69,16 @@
 - **Grover’s Algorithm**: circuit design & experimentation (Qiskit), marked-item search, oracle/diffusion construction.  
 - **Fixed-Point Amplitude Amplification**: iterations without overshoot; ancilla/flag design and uncomputation.  
 - Interests: **quantum architecture & coding**, noise models, and hybrid classical–quantum workflows.
+
+---
+
+## 🧾 Publications
+
+**Defense Scheduler System v1.0.0**  
+Full-stack web application for academic defense session management and voting (Moodle plugin).  
+Published on [Zenodo](https://zenodo.org/records/17427199) — DOI: [10.5281/zenodo.17427199](https://doi.org/10.5281/zenodo.17427199)  
+Affiliation: *National Research University Higher School of Economics (HSE), Moscow*  
+ORCID: [0009-0008-3537-XXXX](https://orcid.org/0009-0008-3537-XXXX)
 
 ---
 
