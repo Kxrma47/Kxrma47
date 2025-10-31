@@ -2,7 +2,7 @@
 
 > Full-Stack Developer · 4th-year B.Sc. in Software Engineering @ **NRU HSE (Moscow)**  
 > Backend → Python/Flask, PHP, SQL · Frontend → TS/React/SolidJS/D3 · Data/ML & Quantum curious  
-> [ORCID: 0009-0008-3537-XXXX](https://orcid.org/0009-0008-3537-XXXX)
+> [ORCID: 0009-0008-3537-3794](https://orcid.org/0009-0008-3537-3794)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kxrma47-000?style=for-the-badge&logo=github)](https://github.com/Kxrma47)
 [![Telegram](https://img.shields.io/badge/Telegram-@wadupdog-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wadupdog)
@@ -75,10 +75,10 @@
 ## 🧾 Publications
 
 **Defense Scheduler System v1.0.0**  
-Full-stack web application for academic defense session management and voting (Moodle plugin).  
+Full-stack web application for academic defense session management and voting 
 Published on [Zenodo](https://zenodo.org/records/17427199) — DOI: [10.5281/zenodo.17427199](https://doi.org/10.5281/zenodo.17427199)  
 Affiliation: *National Research University Higher School of Economics (HSE), Moscow*  
-ORCID: [0009-0008-3537-XXXX](https://orcid.org/0009-0008-3537-XXXX)
+ORCID: [0009-0008-3537-XXXX](https://orcid.org/0009-0008-3537-3794)
 
 ---
 
