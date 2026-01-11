@@ -120,28 +120,6 @@ ORCID: [0009-0008-3537-3794](https://orcid.org/0009-0008-3537-3794)
 
 ---
 
-## 📊 GitHub Stats & Animations
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kxrma47&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kxrma47&layout=compact&theme=dark&langs_count=10" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kxrma47&theme=dark" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kxrma47&theme=react-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2400&pause=600&color=58A6FF&center=true&vCenter=true&width=820&lines=Scheduling+%26+Voting+Plugins+for+HSE+Moodle;Interactive+Phylo+Graphs+with+SolidJS+%2B+D3;Deep+Learning+%26+Statistics+for+Real+Data;Grover%E2%80%99s+Algorithm+%26+Quantum+circuits;APIs%2C+Schemas%2C+and+Clean+Deploys" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kxrma47&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
 
 **GitHub Snake:**
 
