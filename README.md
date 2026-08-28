@@ -10,7 +10,11 @@
 
 </div>
 
-<img width="100%" src="./assets/quantum-companion.svg?v=2" alt="QUBI-47 autonomous quantum companion habitat" />
+<a href="https://kxrma47.github.io/Kxrma47/"><img width="100%" src="./assets/quantum-companion.svg?v=2" alt="QUBI-47 autonomous quantum companion habitat" /></a>
+
+<div align="center">
+  <a href="https://kxrma47.github.io/Kxrma47/"><code>ENTER INTERACTIVE COMPANION LAB ↗</code></a>
+</div>
 
 <img width="100%" src="./assets/sections/00-system-manifest.svg" alt="00 // System Manifest" />
 

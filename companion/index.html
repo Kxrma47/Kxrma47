@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#030711" />
+  <meta name="description" content="QUBI-47 is an interactive quantum companion built by Kxrma47." />
+  <link rel="canonical" href="https://kxrma47.github.io/Kxrma47/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://kxrma47.github.io/Kxrma47/" />
+  <meta property="og:title" content="QUBI-47 // Quantum Companion Lab" />
+  <meta property="og:description" content="A living, interactive quantum companion built by Kxrma47." />
+  <meta property="og:image" content="https://kxrma47.github.io/Kxrma47/og.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="QUBI-47 // Quantum Companion Lab" />
+  <meta name="twitter:description" content="A living, interactive quantum companion built by Kxrma47." />
+  <meta name="twitter:image" content="https://kxrma47.github.io/Kxrma47/og.png" />
+  <title>QUBI-47 // Quantum Companion Lab</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="lab-shell">
+    <header class="topbar">
+      <div class="brand">
+        <span class="window-dots" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span>QNODE://COMPANION_LAB</span>
+      </div>
+      <div class="live"><span></span> SOUL_CORE::ONLINE</div>
+    </header>
+
+    <section class="hero-copy" aria-labelledby="page-title">
+      <div>
+        <p class="eyebrow">EXPERIMENT 0x47 · INTERACTIVE AGENT</p>
+        <h1 id="page-title">Meet <span>QUBI-47</span></h1>
+      </div>
+      <p>Move your pointer. Click inside the habitat. QUBI is watching.</p>
+    </section>
+
+    <section id="habitat" class="habitat" aria-label="Interactive QUBI-47 habitat">
+      <div class="scanline" aria-hidden="true"></div>
+      <div class="station station-code" aria-hidden="true">
+        <div class="station-label">CODE_NODE</div>
+        <div class="code-screen">
+          <span>while alive:</span>
+          <span>&nbsp;&nbsp;learn()</span>
+          <span>&nbsp;&nbsp;explore()</span>
+          <span>&nbsp;&nbsp;fix_bug()</span>
+        </div>
+        <div class="keys"><i></i><i></i><i></i><i></i></div>
+      </div>
+
+      <div class="station station-orb" aria-hidden="true">
+        <div class="orb"><i></i><i></i><b></b></div>
+        <div class="station-label">QPU_ORB</div>
+      </div>
+
+      <div class="station station-dock" aria-hidden="true">
+        <div class="dock-light"></div>
+        <div class="station-label">HOME_DOCK</div>
+      </div>
+
+      <button id="qubi" class="qubi" type="button" aria-label="QUBI-47. Click, pet, double-click, or drag to interact.">
+        <span class="antenna"><i></i></span>
+        <span class="ear ear-left"></span>
+        <span class="ear ear-right"></span>
+        <span class="head">
+          <span class="face">
+            <span class="eye eye-left"><i class="pupil"></i></span>
+            <span class="eye eye-right"><i class="pupil"></i></span>
+            <span class="mouth"></span>
+          </span>
+        </span>
+        <span class="body-core"><i></i><b></b></span>
+        <span class="arm arm-left"></span>
+        <span class="arm arm-right"></span>
+        <span class="shadow"></span>
+        <span id="thought" class="thought" aria-hidden="true">?</span>
+        <span id="speech" class="speech" aria-hidden="true"></span>
+      </button>
+
+      <button id="bug" class="bug" type="button" aria-label="Quantum bug. Click to catch it." hidden><i></i><b></b></button>
+      <div id="particles" class="particles" aria-hidden="true"></div>
+      <div id="pointerEcho" class="pointer-echo" aria-hidden="true"></div>
+      <div class="floor" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+    </section>
+
+    <section class="telemetry" aria-live="polite">
+      <div class="state-readout">
+        <span>CURRENT_STATE</span>
+        <strong id="stateLabel">CURIOUS</strong>
+      </div>
+      <div class="meter"><span>CURIOSITY</span><i><b id="curiosityBar"></b></i></div>
+      <div class="meter"><span>TRUST</span><i><b id="trustBar"></b></i></div>
+      <div class="meter"><span>ENERGY</span><i><b id="energyBar"></b></i></div>
+      <div class="meter"><span>PATIENCE</span><i><b id="patienceBar"></b></i></div>
+    </section>
+
+    <section class="controls" aria-label="QUBI-47 controls">
+      <div class="hint"><kbd>CLICK</kbd> summon · <kbd>HOVER</kbd> inspect · <kbd>DRAG</kbd> throw · <kbd>DOUBLE</kbd> teleport</div>
+      <div class="control-buttons">
+        <button type="button" data-action="pet">PET</button>
+        <button type="button" data-action="bug">SPAWN_BUG</button>
+        <button type="button" data-action="teleport">TELEPORT</button>
+        <button id="soundToggle" type="button" aria-pressed="false">SOUND::OFF</button>
+        <button type="button" data-action="reset">RESET_MEMORY</button>
+      </div>
+      <p id="eventLog" class="event-log" aria-live="polite">BOOT :: personality core initialized</p>
+    </section>
+
+    <footer>
+      <span>BUILT BY <a href="https://github.com/Kxrma47">KXRMA47</a></span>
+      <span>NO QUBITS WERE HARMED</span>
+    </footer>
+  </main>
+
+  <noscript>QUBI-47 needs JavaScript enabled for interactive behavior.</noscript>
+  <script src="./app.js" defer></script>
+</body>
+</html>
