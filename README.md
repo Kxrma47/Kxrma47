@@ -65,7 +65,7 @@ engineering = ["tested", "reproducible", "measurable"]
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kxrma47&amp;theme=nord_dark&amp;utcOffset=3" alt="Kxrma47 commits by time of day" />
 </div>
 
-<img width="100%" src="./assets/contribution-trace.svg?v=2" alt="QNODE Contribution Trace with live qubit feed" />
+<img width="100%" src="./assets/contribution-trace.svg" alt="QNODE Contribution Trace" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/github-contribution-grid-snake-dark.svg" />
