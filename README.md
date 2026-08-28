@@ -1,13 +1,14 @@
-<img width="100%" src="./assets/profile-banner.svg" alt="Mahidul Haque | Software Engineer" />
+<img width="100%" src="./assets/profile-banner.svg" alt="Kxrma47 | Research Engineering" />
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=850&lines=Building+research-grade+software;Quantum+computing+%C3%97+ML+engineering+%C3%97+full-stack+systems;Turning+complex+workflows+into+clear%2C+usable+tools)](https://git.io/typing-svg)
 
-[![HSE](https://img.shields.io/badge/HSE-Research_Intern-0B1F8A?style=flat-square)](https://www.hse.ru/org/persons/1156238559/)
+[![HSE Profile](https://img.shields.io/badge/HSE-Profile-0B1F8A?style=flat-square)](https://www.hse.ru/org/persons/1156238559/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--3537--3794-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-3537-3794)
 [![IEEE](https://img.shields.io/badge/IEEE-DCHPC_2026-00629B?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/DCHPC69296.2026.11517248)
 [![Zenodo](https://img.shields.io/badge/Zenodo-Open_Software-1682D4?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.17427199)
+![Profile Views](https://komarev.com/ghpvc/?username=Kxrma47&style=flat-square&color=0891b2&label=PROFILE+VIEWS)
 
 </div>
 
@@ -49,6 +50,20 @@ Background     2 years in backend/data automation · teaching assistance · appl
 | Qiskit · PyTorch · scikit-learn · SciPy · statsmodels | React · SolidJS · D3 · Flask · Moodle · SQLAlchemy | PostgreSQL · SQLite · Docker · Playwright · Vitest |
 | Quantum search · optimization · anomaly detection | REST APIs · RBAC · scientific visualization | Git · shell scripting · Java · Kotlin · C++ |
 
+## GitHub signal
+
+<div align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kxrma47&amp;theme=github_dark" alt="Kxrma47 GitHub statistics" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kxrma47&amp;theme=github_dark" alt="Kxrma47 top languages by repository" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kxrma47&amp;theme=github_dark&amp;utcOffset=3" alt="Kxrma47 commits by time of day" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## Research & education
 
 - **Research Intern**, HSE Faculty of Computer Science / AI and Digital Sciences - 2026-present
@@ -58,6 +73,4 @@ Background     2 years in backend/data automation · teaching assistance · appl
 
 <div align="center">
   <sub>Open to research collaboration and engineering work at the intersection of software, data, and emerging computation.</sub>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Kxrma47&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
 </div>

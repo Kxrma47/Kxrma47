@@ -1,26 +1,27 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Mahidul Haque - Software Engineer and Researcher</title>
-  <desc id="desc">A dark teal engineering-inspired banner with circuit lines, a monogram, and Mahidul Haque's professional focus.</desc>
+<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kxrma47 - Research Engineering</title>
+  <desc id="desc">A minimal animated cyber-style terminal banner for a software engineering profile.</desc>
 
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07111F"/>
-      <stop offset="0.52" stop-color="#0B2431"/>
-      <stop offset="1" stop-color="#0E7490"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070D18"/>
+      <stop offset="0.58" stop-color="#0A1C29"/>
+      <stop offset="1" stop-color="#083B4B"/>
     </linearGradient>
-    <linearGradient id="accent" x1="70" y1="70" x2="1090" y2="230" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#67E8F9"/>
-      <stop offset="1" stop-color="#22D3EE"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1008 146) rotate(90) scale(168)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#22D3EE" stop-opacity="0.22"/>
+    <linearGradient id="scan" x1="0" y1="0" x2="180" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M30 0H0V30" stroke="#A5F3FC" stroke-opacity="0.06"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="58" y1="0" x2="1100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#0891B2"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#A5F3FC" stroke-opacity="0.045"/>
     </pattern>
-    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -28,40 +29,49 @@
     </filter>
   </defs>
 
-  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
-  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
-  <circle cx="1008" cy="146" r="168" fill="url(#glow)"/>
+  <rect width="1200" height="240" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="240" rx="18" fill="url(#grid)"/>
+  <rect x="-180" width="180" height="240" fill="url(#scan)">
+    <animate attributeName="x" values="-180;1200" dur="7s" repeatCount="indefinite"/>
+  </rect>
 
-  <g opacity="0.48" stroke="url(#accent)" stroke-width="2">
-    <path d="M810 56H930L962 88H1200"/>
-    <path d="M862 78H914L946 110H1200"/>
-  </g>
-  <g fill="#67E8F9" filter="url(#softGlow)">
-    <circle cx="962" cy="88" r="4"/>
-    <circle cx="946" cy="110" r="4"/>
+  <g font-family="JetBrains Mono,SFMono-Regular,Consolas,Liberation Mono,monospace">
+    <text x="62" y="55" fill="#64748B" font-size="15" letter-spacing="0.6">root@github:~$ ./profile --signal</text>
+    <text x="62" y="122" fill="#ECFEFF" font-size="56" font-weight="700" letter-spacing="4">KXRMA47</text>
+    <rect x="334" y="83" width="5" height="48" rx="2" fill="#22D3EE">
+      <animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+    <text x="64" y="158" fill="#67E8F9" font-size="16" font-weight="600" letter-spacing="1.4">SOFTWARE // QUANTUM // ML // DATA SYSTEMS</text>
+    <text x="64" y="198" fill="#94A3B8" font-size="13" letter-spacing="0.5">status: building clear, tested systems for complex problems</text>
   </g>
 
-  <g transform="translate(934 45)">
-    <circle cx="105" cy="105" r="82" stroke="#A5F3FC" stroke-opacity="0.18" stroke-width="2"/>
-    <ellipse cx="105" cy="105" rx="98" ry="38" transform="rotate(-24 105 105)" stroke="#67E8F9" stroke-opacity="0.42" stroke-width="2"/>
-    <ellipse cx="105" cy="105" rx="98" ry="38" transform="rotate(36 105 105)" stroke="#67E8F9" stroke-opacity="0.24" stroke-width="2"/>
-    <circle cx="25" cy="126" r="6" fill="#22D3EE" filter="url(#softGlow)">
-      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" repeatCount="indefinite"/>
+  <g transform="translate(934 23)">
+    <circle cx="105" cy="96" r="72" fill="#07111F" fill-opacity="0.5" stroke="#164E63"/>
+    <g>
+      <circle cx="105" cy="96" r="59" stroke="#22D3EE" stroke-opacity="0.28" stroke-width="2" stroke-dasharray="34 17 8 13"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 105 96" to="360 105 96" dur="18s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="105" cy="96" r="42" stroke="#67E8F9" stroke-opacity="0.18" stroke-width="2" stroke-dasharray="12 10"/>
+      <animateTransform attributeName="transform" type="rotate" from="360 105 96" to="0 105 96" dur="12s" repeatCount="indefinite"/>
+    </g>
+    <path d="M105 62V130M71 96H139" stroke="#22D3EE" stroke-opacity="0.2"/>
+    <circle cx="105" cy="96" r="7" fill="#22D3EE" filter="url(#glow)">
+      <animate attributeName="r" values="5;8;5" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.65;1;0.65" dur="2.4s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="183" cy="77" r="5" fill="#A5F3FC" filter="url(#softGlow)">
-      <animate attributeName="opacity" values="1;0.35;1" dur="3.4s" repeatCount="indefinite"/>
+    <circle cx="156" cy="67" r="4" fill="#A5F3FC" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="3.1s" repeatCount="indefinite"/>
     </circle>
-    <text x="105" y="124" fill="#ECFEFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="750" text-anchor="middle" letter-spacing="-3">MH</text>
-    <text x="105" y="155" fill="#A5F3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="middle" letter-spacing="2">MAX · @KXRMA47</text>
+    <text x="105" y="190" fill="#64748B" font-family="JetBrains Mono,SFMono-Regular,Consolas,monospace" font-size="11" text-anchor="middle" letter-spacing="2">SIGNAL // ONLINE</text>
   </g>
 
-  <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <text x="70" y="103" fill="#ECFEFF" font-size="50" font-weight="750" letter-spacing="-1.5">Mahidul Haque</text>
-    <text x="72" y="143" fill="#67E8F9" font-size="24" font-weight="600" letter-spacing="0.5">SOFTWARE ENGINEER · QUANTUM &amp; ML RESEARCH</text>
-    <rect x="72" y="169" width="594" height="2" rx="1" fill="url(#accent)" opacity="0.72"/>
-    <text x="72" y="204" fill="#CBD5E1" font-size="17" font-weight="500" letter-spacing="1.5">RESEARCH ENGINEERING  //  FULL-STACK SYSTEMS  //  DATA &amp; VISUALIZATION</text>
-    <text x="72" y="242" fill="#94A3B8" font-size="15" letter-spacing="0.6">Building clear, tested software for complex computational problems.</text>
+  <g opacity="0.48" stroke="url(#accent)" stroke-width="1.5">
+    <path d="M758 42H856L886 72H972"/>
+    <path d="M790 198H874L900 172H963"/>
   </g>
+  <circle cx="886" cy="72" r="3.5" fill="#67E8F9" filter="url(#glow)"/>
+  <circle cx="900" cy="172" r="3.5" fill="#22D3EE" filter="url(#glow)"/>
 
-  <rect x="1" y="1" width="1198" height="298" rx="19" stroke="#67E8F9" stroke-opacity="0.16" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="238" rx="17" stroke="#22D3EE" stroke-opacity="0.18" stroke-width="2"/>
 </svg>
