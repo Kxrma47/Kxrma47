@@ -31,7 +31,7 @@ engineering = ["tested", "reproducible", "measurable"]
 
 <img width="100%" src="./assets/sections/01-research-impact.svg?v=2" alt="01 // Research Impact" />
 
-- Published **IEEE DCHPC 2026** work on [Quantum Gantt Charts for Spatial Data Engineering](https://doi.org/10.1109/DCHPC69296.2026.11517248).
+- Published **IEEE DCHPC 2026** work on [Quantum Gantt Charts for Spatial Data Engineering](https://doi.org/10.1109/DCHPC69296.2026.11517248). Publication record: [IEEE Xplore](https://ieeexplore.ieee.org/document/11517248) · [NASA ADS](https://ui.adsabs.harvard.edu/abs/2026dchp.conf17248M/abstract) · [HSE Publications](https://publications.hse.ru/en/preprints/1164063820) · [EurekaMag](https://eurekamag.com/research/107/718/107718048).
 - Built a constrained-optimization benchmark spanning **39 CEOP formulations**, **14 optimizers**, and **37 validation tests**, with parallel trials on Yandex DataSphere.
 - Developed a host anomaly-detection pipeline trained on **1,439 telemetry samples**; its demo detected **26/26 injected anomalies** with 3 false positives.
 - Released the [Defense Scheduler System v1.0.0](https://doi.org/10.5281/zenodo.17427199) as citable open software on Zenodo.
