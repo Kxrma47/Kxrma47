@@ -56,10 +56,10 @@
 
   <g font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace">
     <text x="70" y="21" fill="#64748B" font-size="10.5" letter-spacing="0.8">ssh://qnode.local/session/KXRMA47</text>
-    <circle cx="1091" cy="17" r="3" fill="#34D399" filter="url(#glow)">
+    <circle cx="1021" cy="17" r="3" fill="#34D399" filter="url(#glow)">
       <animate attributeName="opacity" values="0.45;1;0.45" dur="2.2s" repeatCount="indefinite"/>
     </circle>
-    <text x="1102" y="21" fill="#6EE7B7" font-size="10" letter-spacing="1">LINK_SECURE</text>
+    <text x="1032" y="21" fill="#6EE7B7" font-size="9" letter-spacing=".7">TUNNEL::ED25519::VERIFIED</text>
 
     <text x="48" y="64" fill="#64748B" font-size="12.5" letter-spacing="0.35">
       <tspan fill="#22D3EE">kxrma47@qnode</tspan><tspan fill="#475569">:</tspan><tspan fill="#8B5CF6">~</tspan><tspan fill="#94A3B8">$ exec ./profile --state=active</tspan>
@@ -139,6 +139,26 @@
     <text x="800" y="218" fill="#A5F3FC" font-size="12.5">|Φ+⟩ = (|00⟩ + |11⟩) / √2</text>
     <text x="710" y="239" fill="#64748B" font-size="10.5">MEASURE</text>
     <text x="800" y="239" fill="#34D399" font-size="10.5">{ 00: 50.0%  |  11: 50.0% }</text>
+  </g>
+
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="8.2" letter-spacing=".55">
+    <text x="710" y="259" fill="#475569">SEC_LOG::</text>
+    <text x="766" y="259" fill="#67E8F9" opacity="0">coherence verified · no tampering detected<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.24;.25;1" dur="18s" repeatCount="indefinite"/></text>
+    <text x="766" y="259" fill="#C4B5FD" opacity="0">identity signature matched · operator KXRMA47<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.249;.25;.49;.5" dur="18s" repeatCount="indefinite"/></text>
+    <text x="766" y="259" fill="#67E8F9" opacity="0">quantum circuit heartbeat · nominal<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.499;.5;.74;.75" dur="18s" repeatCount="indefinite"/></text>
+    <text x="766" y="259" fill="#34D399" opacity="0">research systems online · secure channel open<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.749;.75;1" dur="18s" repeatCount="indefinite"/></text>
+  </g>
+
+  <g opacity="0" font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.085;.14;1" dur="24s" repeatCount="indefinite"/>
+    <rect x="35" y="43" width="620" height="213" rx="8" fill="#02060D" fill-opacity=".96" stroke="#8B5CF6" stroke-opacity=".5"/>
+    <text x="54" y="67" fill="#8B5CF6" font-size="10" letter-spacing="1.2">SECURE_BOOT://IDENTITY_SHARD_0x47</text>
+    <text x="54" y="92" fill="#67E8F9" font-size="12">$ decrypt --key ED25519 --target profile.kernel</text>
+    <g fill="#334155" font-size="8.5" letter-spacing="1"><text x="54" y="119">9A7F 31C0 E2B8 47DD 0011 1010 A93E 7C11</text><text x="54" y="136">ψENC 0F47 7D2A 1148 1A00 FF91 00C4 22D3</text><text x="54" y="153">C0DE BEEF 0047 8B5C F600 34D3 99A5 F3FC</text></g>
+    <text x="54" y="181" fill="#94A3B8" font-size="10">verifying operator signature...</text>
+    <rect x="54" y="194" width="560" height="5" rx="2.5" fill="#0F172A"/><rect x="54" y="194" width="0" height="5" rx="2.5" fill="#22D3EE" filter="url(#glow)"><animate attributeName="width" values="0;560" dur="2.5s" repeatCount="indefinite"/></rect>
+    <text x="54" y="224" fill="#34D399" font-size="10" letter-spacing=".8">ACCESS::ACCEPTED · COHERENCE::STABLE</text>
+    <text x="54" y="244" fill="#475569" font-size="8.5">fingerprint SHA256:47:9A:QNODE:KXRMA47</text>
   </g>
 
   <path d="M1 16Q1 1 16 1H1184Q1199 1 1199 16V254Q1199 269 1184 269H16Q1 269 1 254Z" stroke="#22D3EE" stroke-opacity="0.22" stroke-width="2"/>

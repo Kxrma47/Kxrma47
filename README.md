@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/profile-banner.svg" alt="Kxrma47 | Quantum Software Engineering Terminal" />
+<img width="100%" src="./assets/profile-banner.svg?v=2" alt="Kxrma47 | Quantum Software Engineering Terminal" />
 
 <div align="center">
 
@@ -10,9 +10,9 @@
 
 </div>
 
-<img width="100%" src="./assets/quantum-companion.svg?v=3" alt="QUBI-47 autonomous quantum companion roaming through the profile runtime" />
+<img width="100%" src="./assets/quantum-companion.svg?v=4" alt="QUBI-47 autonomous quantum companion roaming through the profile runtime" />
 
-<img width="100%" src="./assets/sections/00-system-manifest.svg" alt="00 // System Manifest" />
+<img width="100%" src="./assets/sections/00-system-manifest.svg?v=2" alt="00 // System Manifest" />
 
 Software engineering graduate and **Research Intern at HSE University** in Moscow, building research-grade tools across quantum computing, machine learning, scientific visualization, data analysis, and full-stack systems.
 
@@ -29,7 +29,7 @@ systems = ["full-stack", "data pipelines", "scientific visualization"]
 engineering = ["tested", "reproducible", "measurable"]
 ```
 
-<img width="100%" src="./assets/sections/01-research-impact.svg" alt="01 // Research Impact" />
+<img width="100%" src="./assets/sections/01-research-impact.svg?v=2" alt="01 // Research Impact" />
 
 - Published **IEEE DCHPC 2026** work on [Quantum Gantt Charts for Spatial Data Engineering](https://doi.org/10.1109/DCHPC69296.2026.11517248).
 - Built a constrained-optimization benchmark spanning **39 CEOP formulations**, **14 optimizers**, and **37 validation tests**, with parallel trials on Yandex DataSphere.
@@ -37,7 +37,7 @@ engineering = ["tested", "reproducible", "measurable"]
 - Released the [Defense Scheduler System v1.0.0](https://doi.org/10.5281/zenodo.17427199) as citable open software on Zenodo.
 - Earned an **Open Doors Winner Diploma** in Computer Science & Data Science and a **High Achievements Diploma** in Applied Mathematics & AI.
 
-<img width="100%" src="./assets/sections/02-featured-systems.svg" alt="02 // Featured Systems" />
+<img width="100%" src="./assets/sections/02-featured-systems.svg?v=2" alt="02 // Featured Systems" />
 
 <div align="center">
   <a href="https://github.com/Kxrma47/ml-host-anomaly-detection"><img width="49%" src="./assets/projects/ml-anomaly.svg" alt="ML Host Anomaly Detection" /></a>
@@ -46,7 +46,7 @@ engineering = ["tested", "reproducible", "measurable"]
   <a href="https://github.com/Kxrma47/SolidJS-Prototype-for-Visualizing-Model-Support-and-Relationships-Generalized-bModelTest-"><img width="49%" src="./assets/projects/bmodel-visualizer.svg" alt="bModel Visualizer" /></a>
 </div>
 
-<img width="100%" src="./assets/sections/03-engineering-toolkit.svg" alt="03 // Engineering Toolkit" />
+<img width="100%" src="./assets/sections/03-engineering-toolkit.svg?v=2" alt="03 // Engineering Toolkit" />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,react,solidjs,d3,pytorch,sklearn,postgres,flask,php,docker,git" alt="Python, TypeScript, React, SolidJS, D3, PyTorch, scikit-learn, PostgreSQL, Flask, PHP, Docker, and Git" />
@@ -57,7 +57,7 @@ engineering = ["tested", "reproducible", "measurable"]
 | Qiskit · PyTorch · scikit-learn · SciPy · statsmodels | React · SolidJS · D3 · Flask · Moodle · SQLAlchemy | PostgreSQL · SQLite · Docker · Playwright · Vitest |
 | Quantum search · optimization · anomaly detection | REST APIs · RBAC · scientific visualization | Git · shell scripting · Java · Kotlin · C++ |
 
-<img width="100%" src="./assets/sections/04-github-signal.svg" alt="04 // GitHub Signal" />
+<img width="100%" src="./assets/sections/04-github-signal.svg?v=2" alt="04 // GitHub Signal" />
 
 <div align="center">
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kxrma47&amp;theme=nord_dark" alt="Kxrma47 GitHub statistics" />
@@ -73,7 +73,7 @@ engineering = ["tested", "reproducible", "measurable"]
   <img width="100%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<img width="100%" src="./assets/sections/05-current-vector.svg" alt="05 // Current Vector" />
+<img width="100%" src="./assets/sections/05-current-vector.svg?v=2" alt="05 // Current Vector" />
 
 - **Research Intern**, HSE Faculty of Computer Science / AI and Digital Sciences - 2026-present
 - **Research Assistant**, Swarm Intelligence & Evolutionary Optimization - 2024-present
