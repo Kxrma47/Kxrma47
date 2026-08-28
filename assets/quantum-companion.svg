@@ -1,0 +1,84 @@
+<svg width="1200" height="172" viewBox="0 0 1200 172" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">QUBI-47 animated quantum companion</title>
+  <desc id="desc">A floating qubit robot cycling through idle, scanning, entangling, computing, thinking, superposition, coding, compiling, debugging, teleporting, and ready states.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="172" gradientUnits="userSpaceOnUse"><stop stop-color="#040811"/><stop offset=".55" stop-color="#07131F"/><stop offset="1" stop-color="#0A1D31"/></linearGradient>
+    <radialGradient id="core" cx="50%" cy="42%" r="60%"><stop stop-color="#A5F3FC"/><stop offset=".28" stop-color="#22D3EE"/><stop offset="1" stop-color="#2563EB"/></radialGradient>
+    <linearGradient id="trace" x1="310" y1="0" x2="1130" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#8B5CF6"/><stop offset=".55" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity=".08"/></linearGradient>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" stroke="#67E8F9" stroke-opacity=".025"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="7"/></filter>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace}
+      .state{opacity:0;animation:show 45s steps(1,end) infinite}.s2{animation-delay:3s}.s3{animation-delay:6s}.s4{animation-delay:9s}.s5{animation-delay:12s}.s6{animation-delay:15s}.s7{animation-delay:18s}.s8{animation-delay:21s}.s9{animation-delay:24s}.s10{animation-delay:27s}.s11{animation-delay:30s}.s12{animation-delay:33s}.s13{animation-delay:36s}.s14{animation-delay:39s}.s15{animation-delay:42s}
+      @keyframes show{0%,6.62%{opacity:1}6.67%,100%{opacity:0}}
+      .bot{transform-box:fill-box;transform-origin:center;animation:botCycle 45s linear infinite}
+      @keyframes botCycle{0%,79%{opacity:1;transform:translateX(0) scale(1)}81%{opacity:.35;transform:translateX(34px) scale(.86)}83%{opacity:0;transform:translateX(58px) scale(.7)}84%{opacity:0;transform:translateX(-48px) scale(.7)}86.6%,100%{opacity:1;transform:translateX(0) scale(1)}}
+      .scanfx{transform-box:fill-box;animation:scanFx 45s linear infinite}@keyframes scanFx{0%,6.5%{opacity:0;transform:translateX(-26px)}7%{opacity:.9;transform:translateX(-26px)}12.8%{opacity:.55;transform:translateX(58px)}13.3%,100%{opacity:0;transform:translateX(60px)}}
+      .entanglefx{animation:entangleFx 45s linear infinite}@keyframes entangleFx{0%,13%{opacity:0}13.4%,19.7%{opacity:1}20%,100%{opacity:0}}
+      .thinkfx{animation:thinkFx 45s linear infinite}@keyframes thinkFx{0%,26.4%{opacity:0}26.8%,33%{opacity:1}33.3%,100%{opacity:0}}
+      .superfx{animation:superFx 45s linear infinite}@keyframes superFx{0%,33%{opacity:0}33.5%{opacity:.12}36%{opacity:.38}39.7%{opacity:.14}40%,100%{opacity:0}}
+      .codefx{animation:codeFx 45s linear infinite}@keyframes codeFx{0%,39.8%{opacity:0}40.2%,66.3%{opacity:1}66.7%,100%{opacity:0}}
+      .confusedfx{animation:confusedFx 45s linear infinite}@keyframes confusedFx{0%,53%{opacity:0}53.5%,59.7%{opacity:1}60%,100%{opacity:0}}
+      .alertfx{animation:alertFx 45s linear infinite}@keyframes alertFx{0%,66.4%{opacity:0}66.8%,73%{opacity:1}73.3%,100%{opacity:0}}
+      .coherencefx{animation:coherenceFx 45s linear infinite}@keyframes coherenceFx{0%,73%{opacity:0}73.5%,79.7%{opacity:1}80%,100%{opacity:0}}
+      .telefx{animation:teleFx 45s linear infinite}@keyframes teleFx{0%,79.8%{opacity:0}80.2%,86.3%{opacity:1}86.7%,100%{opacity:0}}
+      .angryfx{animation:angryFx 45s linear infinite}@keyframes angryFx{0%,86.4%{opacity:0}86.8%,93%{opacity:1}93.3%,100%{opacity:0}}
+      .readyfx{animation:readyFx 45s linear infinite}@keyframes readyFx{0%,93%{opacity:0}93.5%,99.8%{opacity:1}100%{opacity:0}}
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="170" rx="13" fill="url(#bg)" stroke="#22D3EE" stroke-opacity=".18"/>
+  <rect x="1" y="1" width="1198" height="170" rx="13" fill="url(#grid)"/>
+  <path d="M0 34H1200" stroke="#22D3EE" stroke-opacity=".1"/>
+  <circle cx="19" cy="17" r="3.5" fill="#8B5CF6"/><circle cx="32" cy="17" r="3.5" fill="#22D3EE"/><circle cx="45" cy="17" r="3.5" fill="#34D399"/>
+  <text x="61" y="21" class="mono" fill="#64748B" font-size="10" letter-spacing="1">COMPANION_DAEMON://QUBI-47</text>
+  <circle cx="1112" cy="17" r="3" fill="#34D399" filter="url(#glow)"><animate attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="1122" y="21" class="mono" fill="#6EE7B7" font-size="9.5" letter-spacing="1">RUNNING</text>
+
+  <ellipse cx="137" cy="146" rx="58" ry="8" fill="#22D3EE" opacity=".11" filter="url(#soft)"><animate attributeName="rx" values="52;62;52" dur="3s" repeatCount="indefinite"/></ellipse>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,-3;0,3;0,-3" dur="3s" repeatCount="indefinite"/>
+    <g class="bot">
+      <g class="superfx" stroke="#8B5CF6" fill="none" stroke-width="2"><rect x="68" y="62" width="64" height="58" rx="21"/><rect x="142" y="62" width="64" height="58" rx="21"/></g>
+      <path d="M137 46V55" stroke="#67E8F9" stroke-width="2"/><circle cx="137" cy="42" r="4" fill="#22D3EE" filter="url(#glow)"><animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/></circle>
+      <path d="M93 74L81 67M181 74L193 67" stroke="#475569" stroke-width="5" stroke-linecap="round"/>
+      <rect x="88" y="56" width="98" height="72" rx="25" fill="#07111E" stroke="#22D3EE" stroke-width="2"/>
+      <rect x="98" y="67" width="78" height="38" rx="14" fill="#02060D" stroke="#334155"/>
+      <ellipse cx="119" cy="86" rx="5" ry="7" fill="#A5F3FC" filter="url(#glow)"><animate attributeName="ry" values="7;7;1;7;7" keyTimes="0;.46;.48;.5;1" dur="5s" repeatCount="indefinite"/></ellipse>
+      <ellipse cx="155" cy="86" rx="5" ry="7" fill="#A5F3FC" filter="url(#glow)"><animate attributeName="ry" values="7;7;1;7;7" keyTimes="0;.46;.48;.5;1" dur="5s" repeatCount="indefinite"/></ellipse>
+      <path d="M127 97Q137 103 147 97" stroke="#64748B" fill="none" stroke-linecap="round"/>
+      <rect x="108" y="112" width="58" height="42" rx="13" fill="#091827" stroke="#8B5CF6" stroke-width="1.5"/>
+      <circle cx="137" cy="132" r="10" fill="url(#core)" filter="url(#glow)"/>
+      <ellipse cx="137" cy="132" rx="17" ry="7" fill="none" stroke="#C4B5FD" stroke-width="1"><animateTransform attributeName="transform" type="rotate" from="0 137 132" to="360 137 132" dur="5s" repeatCount="indefinite"/></ellipse>
+      <ellipse cx="137" cy="132" rx="7" ry="17" fill="none" stroke="#67E8F9" stroke-width="1"><animateTransform attributeName="transform" type="rotate" from="0 137 132" to="-360 137 132" dur="7s" repeatCount="indefinite"/></ellipse>
+      <path d="M108 124L91 136M166 124L183 136" stroke="#475569" stroke-width="6" stroke-linecap="round"/>
+
+      <g class="scanfx"><path d="M100 70H176L205 89L176 108H100Z" fill="#22D3EE" opacity=".12"/><path d="M102 70V108" stroke="#67E8F9" stroke-width="2" filter="url(#glow)"/></g>
+      <g class="entanglefx"><ellipse cx="137" cy="102" rx="74" ry="30" fill="none" stroke="#8B5CF6" stroke-width="1.5" stroke-dasharray="5 7"><animateTransform attributeName="transform" type="rotate" from="0 137 102" to="360 137 102" dur="3s" repeatCount="indefinite"/></ellipse><circle cx="69" cy="91" r="5" fill="#8B5CF6" filter="url(#glow)"/><circle cx="205" cy="113" r="5" fill="#22D3EE" filter="url(#glow)"/></g>
+      <g class="angryfx" stroke="#F59E0B" stroke-width="3" stroke-linecap="round"><path d="M109 76L125 81"/><path d="M165 76L149 81"/></g>
+    </g>
+  </g>
+
+  <g class="thinkfx" fill="#C4B5FD" filter="url(#glow)"><circle cx="208" cy="67" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="1s" repeatCount="indefinite"/></circle><circle cx="220" cy="58" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="1s" begin=".2s" repeatCount="indefinite"/></circle><circle cx="235" cy="45" r="5"><animate attributeName="opacity" values=".2;1;.2" dur="1s" begin=".4s" repeatCount="indefinite"/></circle></g>
+  <text x="208" y="61" class="mono confusedfx" fill="#FBBF24" font-size="30" font-weight="700">?</text>
+  <g class="codefx" transform="translate(205 91)"><rect width="72" height="52" rx="6" fill="#050A12" stroke="#22D3EE" stroke-opacity=".55"/><text x="9" y="17" class="mono" fill="#8B5CF6" font-size="8">def ψ():</text><text x="9" y="29" class="mono" fill="#67E8F9" font-size="8">  return q[0]</text><text x="9" y="41" class="mono" fill="#34D399" font-size="8"># compiling...</text></g>
+  <g class="alertfx"><rect x="82" y="50" width="110" height="109" rx="28" fill="none" stroke="#F43F5E" stroke-width="2" stroke-dasharray="5 5"><animate attributeName="stroke-opacity" values=".25;1;.25" dur=".65s" repeatCount="indefinite"/></rect><text x="137" y="165" class="mono" fill="#FB7185" font-size="8" text-anchor="middle">DECOHERENCE!</text></g>
+  <g class="coherencefx" fill="none" stroke="#22D3EE"><circle cx="137" cy="103" r="53"><animate attributeName="r" values="42;68" dur="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="1.2s" repeatCount="indefinite"/></circle></g>
+  <g class="telefx" stroke="#67E8F9" stroke-width="2" filter="url(#glow)"><path d="M68 49V154M78 61V143M196 58V148M207 47V158" stroke-dasharray="7 8"><animate attributeName="stroke-dashoffset" values="0;-30" dur=".6s" repeatCount="indefinite"/></path></g>
+  <g class="readyfx"><circle cx="207" cy="55" r="15" fill="#052E2B" stroke="#34D399"/><path d="M199 55L205 61L216 48" stroke="#6EE7B7" stroke-width="3" fill="none"/></g>
+
+  <g class="mono">
+    <text x="310" y="61" fill="#E2E8F0" font-size="15" font-weight="700" letter-spacing="2">QUBI-47 // QUANTUM COMPANION</text>
+    <text x="310" y="88" fill="#64748B" font-size="12">$ daemon.state →</text>
+    <g font-size="13" font-weight="700" letter-spacing="1">
+      <text x="446" y="88" class="state s1" fill="#94A3B8">IDLE</text><text x="446" y="88" class="state s2" fill="#67E8F9">SCANNING</text><text x="446" y="88" class="state s3" fill="#C4B5FD">ENTANGLING</text><text x="446" y="88" class="state s4" fill="#67E8F9">COMPUTING</text><text x="446" y="88" class="state s5" fill="#C4B5FD">THINKING</text><text x="446" y="88" class="state s6" fill="#A78BFA">SUPERPOSITION</text><text x="446" y="88" class="state s7" fill="#67E8F9">WRITING_CODE</text><text x="446" y="88" class="state s8" fill="#34D399">COMPILING</text><text x="446" y="88" class="state s9" fill="#FBBF24">CONFUSED</text><text x="446" y="88" class="state s10" fill="#22D3EE">DEBUGGING</text><text x="446" y="88" class="state s11" fill="#FB7185">DECOHERENCE_ALERT</text><text x="446" y="88" class="state s12" fill="#67E8F9">RESTORING_COHERENCE</text><text x="446" y="88" class="state s13" fill="#C4B5FD">TELEPORTING</text><text x="446" y="88" class="state s14" fill="#F59E0B">ANGRY_AT_BUG</text><text x="446" y="88" class="state s15" fill="#34D399">READY</text>
+    </g>
+    <path d="M310 111H1138" stroke="url(#trace)"/>
+    <g fill="#07131F" stroke="#475569"><circle cx="346" cy="111" r="5"/><circle cx="455" cy="111" r="5"/><circle cx="564" cy="111" r="5"/><circle cx="673" cy="111" r="5"/><circle cx="782" cy="111" r="5"/><circle cx="891" cy="111" r="5"/><circle cx="1000" cy="111" r="5"/><circle cx="1109" cy="111" r="5"/></g>
+    <circle cx="310" cy="111" r="4" fill="#22D3EE" filter="url(#glow)"><animate attributeName="cx" values="310;1138" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.9;1" dur="5s" repeatCount="indefinite"/></circle>
+    <text x="310" y="137" fill="#64748B" font-size="10.5" letter-spacing=".6">SUBROUTINES :: ERROR_CORRECTION · BUG_HUNTING · COHERENCE_RECOVERY · CODE_SYNTHESIS</text>
+    <text x="310" y="156" fill="#475569" font-size="9.5">no qubits were harmed during this computation</text>
+  </g>
+</svg>

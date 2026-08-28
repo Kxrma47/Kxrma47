@@ -10,6 +10,8 @@
 
 </div>
 
+<img width="100%" src="./assets/quantum-companion.svg" alt="QUBI-47 animated quantum companion" />
+
 <img width="100%" src="./assets/sections/00-system-manifest.svg" alt="00 // System Manifest" />
 
 Software engineering graduate and **Research Intern at HSE University** in Moscow, building research-grade tools across quantum computing, machine learning, scientific visualization, data analysis, and full-stack systems.
@@ -37,12 +39,12 @@ engineering = ["tested", "reproducible", "measurable"]
 
 <img width="100%" src="./assets/sections/02-featured-systems.svg" alt="02 // Featured Systems" />
 
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| [ML Host Anomaly Detection](https://github.com/Kxrma47/ml-host-anomaly-detection) | End-to-end telemetry collection, autoencoder training, threshold calibration, JSONL reporting, and tests | Python · ML · telemetry |
-| [Moodle Poll Block](https://github.com/Kxrma47/Plugin-For-Moodle) | Role-aware defense scheduling, professor voting, dashboards, Excel export, CSRF protection, and EN/RU i18n | PHP · Moodle · PostgreSQL · JS |
-| [Defense Scheduler](https://github.com/Kxrma47/Defense-Scheduler-System) | Multi-role academic scheduling with REST APIs, RBAC, analytics, and PostgreSQL-backed workflows | PHP · PostgreSQL · JavaScript |
-| [bModel Visualizer](https://github.com/Kxrma47/SolidJS-Prototype-for-Visualizing-Model-Support-and-Relationships-Generalized-bModelTest-) | Interactive phylogenetic model-support graphs with HPD encoding, zoom, filtering, and adaptive layouts | SolidJS · TypeScript · D3 |
+<div align="center">
+  <a href="https://github.com/Kxrma47/ml-host-anomaly-detection"><img width="49%" src="./assets/projects/ml-anomaly.svg" alt="ML Host Anomaly Detection" /></a>
+  <a href="https://github.com/Kxrma47/Plugin-For-Moodle"><img width="49%" src="./assets/projects/moodle-poll.svg" alt="Moodle Poll Block" /></a>
+  <a href="https://github.com/Kxrma47/Defense-Scheduler-System"><img width="49%" src="./assets/projects/defense-scheduler.svg" alt="Defense Scheduler" /></a>
+  <a href="https://github.com/Kxrma47/SolidJS-Prototype-for-Visualizing-Model-Support-and-Relationships-Generalized-bModelTest-"><img width="49%" src="./assets/projects/bmodel-visualizer.svg" alt="bModel Visualizer" /></a>
+</div>
 
 <img width="100%" src="./assets/sections/03-engineering-toolkit.svg" alt="03 // Engineering Toolkit" />
 
@@ -63,7 +65,7 @@ engineering = ["tested", "reproducible", "measurable"]
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kxrma47&amp;theme=nord_dark&amp;utcOffset=3" alt="Kxrma47 commits by time of day" />
 </div>
 
-> `tracing contribution activity...`
+<img width="100%" src="./assets/contribution-trace.svg" alt="QNODE Contribution Trace" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/github-contribution-grid-snake-dark.svg" />
@@ -78,6 +80,4 @@ engineering = ["tested", "reproducible", "measurable"]
 - **B.Sc. Software Engineering**, HSE University - 2026
 - **Incoming M.Sc. Cognitive Sciences and Technologies**, HSE University - 2026-2028
 
-<div align="center">
-  <sub>Open to research collaboration and engineering work at the intersection of software, data, and emerging computation.</sub>
-</div>
+<img width="100%" src="./assets/collaboration-terminal.svg" alt="Open research collaboration and software engineering channel" />
