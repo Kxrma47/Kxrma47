@@ -1,0 +1,67 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mahidul Haque - Software Engineer and Researcher</title>
+  <desc id="desc">A dark teal engineering-inspired banner with circuit lines, a monogram, and Mahidul Haque's professional focus.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#0B2431"/>
+      <stop offset="1" stop-color="#0E7490"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="70" y1="70" x2="1090" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1008 146) rotate(90) scale(168)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#A5F3FC" stroke-opacity="0.06"/>
+    </pattern>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <circle cx="1008" cy="146" r="168" fill="url(#glow)"/>
+
+  <g opacity="0.48" stroke="url(#accent)" stroke-width="2">
+    <path d="M810 56H930L962 88H1200"/>
+    <path d="M862 78H914L946 110H1200"/>
+  </g>
+  <g fill="#67E8F9" filter="url(#softGlow)">
+    <circle cx="962" cy="88" r="4"/>
+    <circle cx="946" cy="110" r="4"/>
+  </g>
+
+  <g transform="translate(934 45)">
+    <circle cx="105" cy="105" r="82" stroke="#A5F3FC" stroke-opacity="0.18" stroke-width="2"/>
+    <ellipse cx="105" cy="105" rx="98" ry="38" transform="rotate(-24 105 105)" stroke="#67E8F9" stroke-opacity="0.42" stroke-width="2"/>
+    <ellipse cx="105" cy="105" rx="98" ry="38" transform="rotate(36 105 105)" stroke="#67E8F9" stroke-opacity="0.24" stroke-width="2"/>
+    <circle cx="25" cy="126" r="6" fill="#22D3EE" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="183" cy="77" r="5" fill="#A5F3FC" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="1;0.35;1" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="105" y="124" fill="#ECFEFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="750" text-anchor="middle" letter-spacing="-3">MH</text>
+    <text x="105" y="155" fill="#A5F3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="middle" letter-spacing="2">MAX · @KXRMA47</text>
+  </g>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="70" y="103" fill="#ECFEFF" font-size="50" font-weight="750" letter-spacing="-1.5">Mahidul Haque</text>
+    <text x="72" y="143" fill="#67E8F9" font-size="24" font-weight="600" letter-spacing="0.5">SOFTWARE ENGINEER · QUANTUM &amp; ML RESEARCH</text>
+    <rect x="72" y="169" width="594" height="2" rx="1" fill="url(#accent)" opacity="0.72"/>
+    <text x="72" y="204" fill="#CBD5E1" font-size="17" font-weight="500" letter-spacing="1.5">RESEARCH ENGINEERING  //  FULL-STACK SYSTEMS  //  DATA &amp; VISUALIZATION</text>
+    <text x="72" y="242" fill="#94A3B8" font-size="15" letter-spacing="0.6">Building clear, tested software for complex computational problems.</text>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="298" rx="19" stroke="#67E8F9" stroke-opacity="0.16" stroke-width="2"/>
+</svg>
