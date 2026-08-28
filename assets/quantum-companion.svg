@@ -1,6 +1,6 @@
-<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">QUBI-47 autonomous quantum companion habitat</title>
-  <desc id="desc">A living qubit robot roams between a code console, quantum orb, bug zone, and charging dock while expressing curiosity, confusion, annoyance, anger, sadness, joy, and sleepiness.</desc>
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">QUBI-47 autonomous profile entity</title>
+  <desc id="desc">QUBI-47 automatically emerges from its dock and roams through a quantum software runtime, coding, scanning, debugging, teleporting, celebrating, and expressing changing emotions without requiring input.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#03070E"/><stop offset=".58" stop-color="#07131F"/><stop offset="1" stop-color="#0A1D31"/></linearGradient>
     <radialGradient id="botCore" cx="50%" cy="40%" r="65%"><stop stop-color="#CFFAFE"/><stop offset=".3" stop-color="#22D3EE"/><stop offset="1" stop-color="#2563EB"/></radialGradient>
@@ -19,18 +19,18 @@
     </style>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="258" rx="14" fill="url(#bg)" stroke="#22D3EE" stroke-opacity=".2"/>
-  <rect x="1" y="1" width="1198" height="258" rx="14" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="14" fill="url(#bg)" stroke="#22D3EE" stroke-opacity=".2"/>
+  <rect x="1" y="1" width="1198" height="298" rx="14" fill="url(#grid)"/>
   <path d="M1 37H1199" stroke="#22D3EE" stroke-opacity=".12"/>
   <circle cx="20" cy="19" r="3.5" fill="#8B5CF6"/><circle cx="33" cy="19" r="3.5" fill="#22D3EE"/><circle cx="46" cy="19" r="3.5" fill="#34D399"/>
 
   <g class="mono">
-    <text x="62" y="23" fill="#E2E8F0" font-size="11" font-weight="700" letter-spacing="1.2">QUBI-47 // AUTONOMOUS COMPANION HABITAT</text>
+    <text x="62" y="23" fill="#E2E8F0" font-size="11" font-weight="700" letter-spacing="1.2">QUBI-47 // AUTONOMOUS README ENTITY</text>
     <text x="432" y="23" fill="#64748B" font-size="10">$ agent.mood →</text>
     <g font-size="10.5" font-weight="700" letter-spacing=".8">
       <text x="535" y="23" class="phase p1" fill="#94A3B8">IDLE</text><text x="535" y="23" class="phase p2" fill="#C4B5FD">CURIOUS</text><text x="535" y="23" class="phase p3" fill="#67E8F9">SCANNING</text><text x="535" y="23" class="phase p4" fill="#C4B5FD">ENTANGLING</text><text x="535" y="23" class="phase p5" fill="#67E8F9">COMPUTING</text><text x="535" y="23" class="phase p6" fill="#C4B5FD">THINKING</text><text x="535" y="23" class="phase p7" fill="#67E8F9">WRITING_CODE</text><text x="535" y="23" class="phase p8" fill="#22D3EE">CLICKING_BUTTONS</text><text x="535" y="23" class="phase p9" fill="#34D399">COMPILING</text><text x="535" y="23" class="phase p10" fill="#FBBF24">CONFUSED</text><text x="535" y="23" class="phase p11" fill="#22D3EE">DEBUGGING</text><text x="535" y="23" class="phase p12" fill="#F59E0B">ANNOYED</text><text x="535" y="23" class="phase p13" fill="#FB7185">ANGRY_AT_BUG</text><text x="535" y="23" class="phase p14" fill="#60A5FA">SAD_AFTER_ERROR</text><text x="535" y="23" class="phase p15" fill="#67E8F9">SELF_REPAIR</text><text x="535" y="23" class="phase p16" fill="#A78BFA">SUPERPOSITION</text><text x="535" y="23" class="phase p17" fill="#C4B5FD">TELEPORTING</text><text x="535" y="23" class="phase p18" fill="#FBBF24">CELEBRATING</text><text x="535" y="23" class="phase p19" fill="#34D399">READY</text><text x="535" y="23" class="phase p20" fill="#94A3B8">SLEEP_MODE</text>
     </g>
-    <circle cx="1084" cy="19" r="3" fill="#34D399" filter="url(#glow)"><animate attributeName="opacity" values=".35;1;.35" dur="1.7s" repeatCount="indefinite"/></circle><text x="1095" y="23" fill="#6EE7B7" font-size="9.5" letter-spacing="1">SOUL_CORE::ONLINE</text>
+    <circle cx="1049" cy="19" r="3" fill="#34D399" filter="url(#glow)"><animate attributeName="opacity" values=".35;1;.35" dur="1.7s" repeatCount="indefinite"/></circle><text x="1060" y="23" fill="#6EE7B7" font-size="9.5" letter-spacing="1">AUTO_RUN::ONLINE</text>
   </g>
 
   <!-- Habitat stations -->
@@ -48,7 +48,13 @@
   <g class="cursor" opacity=".72"><path d="M0 0L0 18L5 13L10 22L14 20L9 11L16 10Z" fill="#E2E8F0" stroke="#0F172A"><animateMotion path="M190 84 C350 36 535 71 710 53 S1015 73 902 151 S573 196 379 105 S180 88 190 84" dur="18s" repeatCount="indefinite"/></path></g>
 
   <!-- Roaming companion -->
-  <g transform="translate(110 143)">
+  <ellipse cx="1030" cy="262" rx="58" ry="11" fill="#22D3EE" opacity=".08" filter="url(#soft)"><animate attributeName="rx" values="38;66;42;58" dur="4s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="1030" cy="262" rx="44" ry="8" fill="none" stroke="#8B5CF6" stroke-opacity=".7" stroke-dasharray="6 6"><animateTransform attributeName="transform" type="rotate" from="0 1030 262" to="360 1030 262" dur="5s" repeatCount="indefinite"/></ellipse>
+  <g class="mono phase p1"><text x="966" y="282" fill="#67E8F9" font-size="8" letter-spacing="1">QPORT::EMERGING</text></g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.006;.02;.975;.992;1" dur="80s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="110,276;110,276;110,183;110,183;110,276;110,276" keyTimes="0;.006;.025;.975;.994;1" dur="80s" repeatCount="indefinite"/>
     <g>
       <animateTransform attributeName="transform" type="translate" values="920,0;770,-20;650,5;460,-15;220,-20;240,-25;210,-15;240,-15;260,-15;290,-10;690,5;700,5;710,5;560,10;460,-5;450,-10;780,-20;820,-10;920,0;920,10;920,0" keyTimes="0;.05;.1;.15;.2;.25;.3;.35;.4;.45;.5;.55;.6;.65;.7;.75;.8;.85;.9;.95;1" dur="80s" repeatCount="indefinite"/>
       <g class="float">
@@ -71,6 +77,16 @@
         <ellipse cx="0" cy="35" rx="7" ry="18" fill="none" stroke="#67E8F9" stroke-width="1"><animateTransform attributeName="transform" type="rotate" from="0 0 35" to="-360 0 35" dur="7s" repeatCount="indefinite"/></ellipse>
         <path d="M-28 25L-45 41M28 25L45 41" stroke="#475569" stroke-width="6" stroke-linecap="round"/>
 
+        <g class="phase p2" transform="translate(54 -80)"><rect width="178" height="29" rx="7" fill="#02060D" stroke="#8B5CF6" stroke-opacity=".7"/><path d="M0 18L-11 25L2 24" fill="#02060D" stroke="#8B5CF6" stroke-opacity=".7"/><text x="11" y="18" class="mono" fill="#C4B5FD" font-size="9">human signal detected.</text></g>
+        <g class="phase p7" transform="translate(54 -80)"><rect width="178" height="29" rx="7" fill="#02060D" stroke="#22D3EE" stroke-opacity=".7"/><path d="M0 18L-11 25L2 24" fill="#02060D" stroke="#22D3EE" stroke-opacity=".7"/><text x="11" y="18" class="mono" fill="#67E8F9" font-size="9">shipping coherent code...</text></g>
+        <g class="phase p10" transform="translate(54 -80)"><rect width="178" height="29" rx="7" fill="#090A0D" stroke="#FBBF24" stroke-opacity=".75"/><path d="M0 18L-11 25L2 24" fill="#090A0D" stroke="#FBBF24" stroke-opacity=".75"/><text x="11" y="18" class="mono" fill="#FBBF24" font-size="9">why did that compile?</text></g>
+        <g class="phase p13" transform="translate(54 -80)"><rect width="190" height="29" rx="7" fill="#120609" stroke="#FB7185" stroke-opacity=".8"/><path d="M0 18L-11 25L2 24" fill="#120609" stroke="#FB7185" stroke-opacity=".8"/><text x="11" y="18" class="mono" fill="#FB7185" font-size="8.5">THIS BUG CHOSE VIOLENCE.</text></g>
+        <g class="phase p14" transform="translate(54 -80)"><rect width="164" height="29" rx="7" fill="#02060D" stroke="#60A5FA" stroke-opacity=".75"/><path d="M0 18L-11 25L2 24" fill="#02060D" stroke="#60A5FA" stroke-opacity=".75"/><text x="11" y="18" class="mono" fill="#93C5FD" font-size="9">the tests failed...</text></g>
+        <g class="phase p16" transform="translate(54 -80)"><rect width="179" height="29" rx="7" fill="#080516" stroke="#A78BFA" stroke-opacity=".8"/><path d="M0 18L-11 25L2 24" fill="#080516" stroke="#A78BFA" stroke-opacity=".8"/><text x="11" y="18" class="mono" fill="#C4B5FD" font-size="9">I am two QUBIs now.</text></g>
+        <g class="phase p17" transform="translate(54 -80)"><rect width="147" height="29" rx="7" fill="#02060D" stroke="#67E8F9" stroke-opacity=".8"/><path d="M0 18L-11 25L2 24" fill="#02060D" stroke="#67E8F9" stroke-opacity=".8"/><text x="11" y="18" class="mono" fill="#A5F3FC" font-size="9">see you over there.</text></g>
+        <g class="phase p18" transform="translate(-212 -80)"><rect width="201" height="29" rx="7" fill="#090A0D" stroke="#34D399" stroke-opacity=".75"/><path d="M201 18L212 25L199 24" fill="#090A0D" stroke="#34D399" stroke-opacity=".75"/><text x="11" y="18" class="mono" fill="#6EE7B7" font-size="8.5">0 errors. statistically suspicious.</text></g>
+        <g class="phase p20" transform="translate(-160 -80)"><rect width="149" height="29" rx="7" fill="#02060D" stroke="#8B5CF6" stroke-opacity=".65"/><path d="M149 18L160 25L147 24" fill="#02060D" stroke="#8B5CF6" stroke-opacity=".65"/><text x="11" y="18" class="mono" fill="#C4B5FD" font-size="9">compiling dreams...</text></g>
+
         <g class="phase p2"><rect x="-37" y="-37" width="74" height="36" rx="13" fill="#02060D"/><circle cx="-18" cy="-20" r="8" fill="#A5F3FC" filter="url(#glow)"/><circle cx="18" cy="-20" r="4" fill="#A5F3FC"/><path d="M-29 -32L-10 -35" stroke="#C4B5FD" stroke-width="2"/></g>
         <g class="phase p3"><path d="M-36 -35H38L87 -18L38 -1H-36Z" fill="#22D3EE" opacity=".14"/><path d="M-35 -35V-1" stroke="#67E8F9" stroke-width="2" filter="url(#glow)"><animate attributeName="x1" values="-35;35" dur="1.2s" repeatCount="indefinite"/><animate attributeName="x2" values="-35;35" dur="1.2s" repeatCount="indefinite"/></path></g>
         <g class="phase p4"><ellipse rx="70" ry="31" fill="none" stroke="#8B5CF6" stroke-width="1.5" stroke-dasharray="5 7"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3s" repeatCount="indefinite"/></ellipse><circle cx="-65" cy="-10" r="5" fill="#8B5CF6" filter="url(#glow)"/><circle cx="65" cy="10" r="5" fill="#22D3EE" filter="url(#glow)"/></g>
@@ -90,6 +106,6 @@
     </g>
   </g>
 
-  <path d="M32 226H1168" stroke="url(#floor)"/><g fill="#07131F" stroke="#475569"><circle cx="185" cy="226" r="4"/><circle cx="388" cy="226" r="4"/><circle cx="620" cy="226" r="4"/><circle cx="850" cy="226" r="4"/><circle cx="1050" cy="226" r="4"/></g><circle cx="32" cy="226" r="3.5" fill="#22D3EE" filter="url(#glow)"><animate attributeName="cx" values="32;1168" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.06;.92;1" dur="7s" repeatCount="indefinite"/></circle>
-  <g class="mono"><text x="32" y="246" fill="#64748B" font-size="9.5" letter-spacing=".55">PERSONALITY_CORE :: CURIOSITY=HIGH · BUG_TOLERANCE=LOW · EMPATHY=LEARNING · COHERENCE=STABLE</text><text x="1007" y="246" fill="#475569" font-size="8.5">SIMULATED_SOUL_v4.7</text></g>
+  <path d="M32 266H1168" stroke="url(#floor)"/><g fill="#07131F" stroke="#475569"><circle cx="185" cy="266" r="4"/><circle cx="388" cy="266" r="4"/><circle cx="620" cy="266" r="4"/><circle cx="850" cy="266" r="4"/><circle cx="1050" cy="266" r="4"/></g><circle cx="32" cy="266" r="3.5" fill="#22D3EE" filter="url(#glow)"><animate attributeName="cx" values="32;1168" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.06;.92;1" dur="7s" repeatCount="indefinite"/></circle>
+  <g class="mono"><text x="32" y="286" fill="#64748B" font-size="9.5" letter-spacing=".55">PERSONALITY_CORE :: CURIOSITY=HIGH · BUG_TOLERANCE=LOW · EMPATHY=LEARNING · COHERENCE=STABLE</text><text x="1007" y="286" fill="#475569" font-size="8.5">SIMULATED_SOUL_v4.7</text></g>
 </svg>
