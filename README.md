@@ -10,7 +10,7 @@
 
 </div>
 
-<img width="100%" src="./assets/quantum-companion.svg" alt="QUBI-47 animated quantum companion" />
+<img width="100%" src="./assets/quantum-companion.svg?v=2" alt="QUBI-47 autonomous quantum companion habitat" />
 
 <img width="100%" src="./assets/sections/00-system-manifest.svg" alt="00 // System Manifest" />
 
