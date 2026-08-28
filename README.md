@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/profile-banner.svg" alt="Kxrma47 | Research Engineering" />
+<img width="100%" src="./assets/profile-banner.svg" alt="Kxrma47 | Quantum Software Engineering Terminal" />
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 </div>
 
-## 00 // SYSTEM MANIFEST
+<img width="100%" src="./assets/sections/00-system-manifest.svg" alt="00 // System Manifest" />
 
 Software engineering graduate and **Research Intern at HSE University** in Moscow, building research-grade tools across quantum computing, machine learning, scientific visualization, data analysis, and full-stack systems.
 
@@ -27,7 +27,7 @@ systems = ["full-stack", "data pipelines", "scientific visualization"]
 engineering = ["tested", "reproducible", "measurable"]
 ```
 
-## 01 // RESEARCH IMPACT
+<img width="100%" src="./assets/sections/01-research-impact.svg" alt="01 // Research Impact" />
 
 - Published **IEEE DCHPC 2026** work on [Quantum Gantt Charts for Spatial Data Engineering](https://doi.org/10.1109/DCHPC69296.2026.11517248).
 - Built a constrained-optimization benchmark spanning **39 CEOP formulations**, **14 optimizers**, and **37 validation tests**, with parallel trials on Yandex DataSphere.
@@ -35,7 +35,7 @@ engineering = ["tested", "reproducible", "measurable"]
 - Released the [Defense Scheduler System v1.0.0](https://doi.org/10.5281/zenodo.17427199) as citable open software on Zenodo.
 - Earned an **Open Doors Winner Diploma** in Computer Science & Data Science and a **High Achievements Diploma** in Applied Mathematics & AI.
 
-## 02 // FEATURED SYSTEMS
+<img width="100%" src="./assets/sections/02-featured-systems.svg" alt="02 // Featured Systems" />
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
@@ -44,7 +44,7 @@ engineering = ["tested", "reproducible", "measurable"]
 | [Defense Scheduler](https://github.com/Kxrma47/Defense-Scheduler-System) | Multi-role academic scheduling with REST APIs, RBAC, analytics, and PostgreSQL-backed workflows | PHP · PostgreSQL · JavaScript |
 | [bModel Visualizer](https://github.com/Kxrma47/SolidJS-Prototype-for-Visualizing-Model-Support-and-Relationships-Generalized-bModelTest-) | Interactive phylogenetic model-support graphs with HPD encoding, zoom, filtering, and adaptive layouts | SolidJS · TypeScript · D3 |
 
-## 03 // ENGINEERING TOOLKIT
+<img width="100%" src="./assets/sections/03-engineering-toolkit.svg" alt="03 // Engineering Toolkit" />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,react,solidjs,d3,pytorch,sklearn,postgres,flask,php,docker,git" alt="Python, TypeScript, React, SolidJS, D3, PyTorch, scikit-learn, PostgreSQL, Flask, PHP, Docker, and Git" />
@@ -55,7 +55,7 @@ engineering = ["tested", "reproducible", "measurable"]
 | Qiskit · PyTorch · scikit-learn · SciPy · statsmodels | React · SolidJS · D3 · Flask · Moodle · SQLAlchemy | PostgreSQL · SQLite · Docker · Playwright · Vitest |
 | Quantum search · optimization · anomaly detection | REST APIs · RBAC · scientific visualization | Git · shell scripting · Java · Kotlin · C++ |
 
-## 04 // GITHUB SIGNAL
+<img width="100%" src="./assets/sections/04-github-signal.svg" alt="04 // GitHub Signal" />
 
 <div align="center">
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kxrma47&amp;theme=nord_dark" alt="Kxrma47 GitHub statistics" />
@@ -71,7 +71,7 @@ engineering = ["tested", "reproducible", "measurable"]
   <img width="100%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## 05 // CURRENT VECTOR
+<img width="100%" src="./assets/sections/05-current-vector.svg" alt="05 // Current Vector" />
 
 - **Research Intern**, HSE Faculty of Computer Science / AI and Digital Sciences - 2026-present
 - **Research Assistant**, Swarm Intelligence & Evolutionary Optimization - 2024-present
