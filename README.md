@@ -14,28 +14,18 @@
 
 <img width="100%" src="./assets/sections/00-system-manifest.svg" alt="00 // System Manifest" />
 
-Software engineering graduate and **Research Intern at HSE University** in Moscow, building research-grade tools across quantum computing, machine learning, scientific visualization, data analysis, and full-stack systems.
+**Research Intern at HSE University** and software engineering graduate building tested systems for quantum computing, machine learning, scientific visualization, and the web.
 
-```toml
-[operator]
-handle = "Kxrma47"
-role = "Research Intern @ HSE"
-
-[domains]
-primary = ["quantum computing", "ML engineering"]
-systems = ["full-stack", "data pipelines", "scientific visualization"]
-
-[principles]
-engineering = ["tested", "reproducible", "measurable"]
-```
+`QUANTUM SYSTEMS` · `ML ENGINEERING` · `FULL-STACK` · `REPRODUCIBLE RESEARCH`
 
 <img width="100%" src="./assets/sections/01-research-impact.svg" alt="01 // Research Impact" />
 
-- Published **IEEE DCHPC 2026** work on [Quantum Gantt Charts for Spatial Data Engineering](https://doi.org/10.1109/DCHPC69296.2026.11517248). Publication record: [IEEE Xplore](https://ieeexplore.ieee.org/document/11517248) · [NASA ADS](https://ui.adsabs.harvard.edu/abs/2026dchp.conf17248M/abstract) · [HSE Publications](https://publications.hse.ru/en/preprints/1164063820) · [EurekaMag](https://eurekamag.com/research/107/718/107718048).
-- Built a constrained-optimization benchmark spanning **39 CEOP formulations**, **14 optimizers**, and **37 validation tests**, with parallel trials on Yandex DataSphere.
-- Developed a host anomaly-detection pipeline trained on **1,439 telemetry samples**; its demo detected **26/26 injected anomalies** with 3 false positives.
-- Released the [Defense Scheduler System v1.0.0](https://doi.org/10.5281/zenodo.17427199) as citable open software on Zenodo.
-- Earned an **Open Doors Winner Diploma** in Computer Science & Data Science and a **High Achievements Diploma** in Applied Mathematics & AI.
+- **IEEE DCHPC 2026** — [Quantum Gantt Charts for Spatial Data Engineering](https://doi.org/10.1109/DCHPC69296.2026.11517248).
+  <sub>Indexed in <a href="https://ieeexplore.ieee.org/document/11517248">IEEE Xplore</a> · <a href="https://ui.adsabs.harvard.edu/abs/2026dchp.conf17248M/abstract">NASA ADS</a> · <a href="https://publications.hse.ru/en/preprints/1164063820">HSE Publications</a> · <a href="https://eurekamag.com/research/107/718/107718048">EurekaMag</a></sub>
+- **CEOP benchmark** — 39 formulations, 14 optimizers, and 37 validation tests.
+- **Host anomaly detection** — 1,439 telemetry samples; 26/26 injected anomalies detected.
+- **Open software** — [Defense Scheduler System v1.0.0](https://doi.org/10.5281/zenodo.17427199) on Zenodo.
+- **Awards** — Open Doors Winner; High Achievements Diploma in Applied Mathematics & AI.
 
 <img width="100%" src="./assets/sections/02-featured-systems.svg" alt="02 // Featured Systems" />
 
@@ -48,21 +38,15 @@ engineering = ["tested", "reproducible", "measurable"]
 
 <img width="100%" src="./assets/sections/03-engineering-toolkit.svg" alt="03 // Engineering Toolkit" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,solidjs,d3,pytorch,sklearn,postgres,flask,php,docker,git" alt="Python, TypeScript, React, SolidJS, D3, PyTorch, scikit-learn, PostgreSQL, Flask, PHP, Docker, and Git" />
-</div>
-
-| Research & ML | Full-stack & data | Engineering |
-|---|---|---|
-| Qiskit · PyTorch · scikit-learn · SciPy · statsmodels | React · SolidJS · D3 · Flask · Moodle · SQLAlchemy | PostgreSQL · SQLite · Docker · Playwright · Vitest |
-| Quantum search · optimization · anomaly detection | REST APIs · RBAC · scientific visualization | Git · shell scripting · Java · Kotlin · C++ |
+**Core:** Python · TypeScript · Java · C++<br>
+**Research:** Qiskit · PyTorch · scikit-learn · SciPy<br>
+**Systems:** React · SolidJS · D3 · Flask · PostgreSQL · Docker · Playwright
 
 <img width="100%" src="./assets/sections/04-github-signal.svg" alt="04 // GitHub Signal" />
 
 <div align="center">
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kxrma47&amp;theme=nord_dark" alt="Kxrma47 GitHub statistics" />
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kxrma47&amp;theme=nord_dark" alt="Kxrma47 top languages by repository" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kxrma47&amp;theme=nord_dark&amp;utcOffset=3" alt="Kxrma47 commits by time of day" />
 </div>
 
 <img width="100%" src="./assets/contribution-trace.svg" alt="QNODE Contribution Trace" />
@@ -77,7 +61,8 @@ engineering = ["tested", "reproducible", "measurable"]
 
 - **Research Intern**, HSE Faculty of Computer Science / AI and Digital Sciences - 2026-present
 - **Research Assistant**, Swarm Intelligence & Evolutionary Optimization - 2024-present
-- **B.Sc. Software Engineering**, HSE University - 2026
-- **Incoming M.Sc. Cognitive Sciences and Technologies**, HSE University - 2026-2028
+- **HSE University** — B.Sc. Software Engineering (2026); incoming M.Sc. Cognitive Sciences and Technologies (2026-2028)
 
-<img width="100%" src="./assets/collaboration-terminal.svg" alt="Open research collaboration and software engineering channel" />
+<div align="center">
+  <code>CHANNEL::OPEN</code> · research collaboration · software engineering
+</div>
