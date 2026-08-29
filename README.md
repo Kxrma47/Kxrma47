@@ -10,8 +10,6 @@
 
 </div>
 
-<img width="100%" src="./assets/quantum-companion.svg?v=3" alt="QUBI-47 autonomous quantum companion roaming through the profile runtime" />
-
 <img width="100%" src="./assets/sections/00-system-manifest.svg" alt="00 // System Manifest" />
 
 **Research Intern at HSE University** and software engineering graduate building tested systems for quantum computing, machine learning, scientific visualization, and the web.
