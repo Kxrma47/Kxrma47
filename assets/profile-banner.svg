@@ -74,7 +74,7 @@
       <animate attributeName="opacity" values="1;1;0;0;1" dur="1.05s" repeatCount="indefinite"/>
     </rect>
 
-    <text x="50" y="153" fill="#67E8F9" font-size="15.5" font-weight="600" letter-spacing="2">QUANTUM SOFTWARE ENGINEER</text>
+    <text x="50" y="153" fill="#67E8F9" font-size="15.5" font-weight="600" letter-spacing="2">SOFTWARE ENGINEER // QUANTUM &amp; ML RESEARCH</text>
     <rect x="48" y="168" width="585" height="1.5" fill="url(#trace)"/>
 
     <text x="49" y="194" fill="#64748B" font-size="11" letter-spacing="0.7">[01]</text>

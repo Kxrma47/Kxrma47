@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/profile-banner.svg" alt="Kxrma47 | Quantum Software Engineering Terminal" />
+<img width="100%" src="./assets/profile-banner.svg" alt="Kxrma47 | Software Engineering, Quantum Computing and ML Research" />
 
 <div align="center">
 
