@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![HSE Profile](https://img.shields.io/badge/HSE-PROFILE-047857?style=flat-square&labelColor=040908)](https://www.hse.ru/org/persons/1156238559/)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--3537--3794-047857?style=flat-square&logo=orcid&logoColor=white&labelColor=040908)](https://orcid.org/0009-0008-3537-3794)
-[![IEEE](https://img.shields.io/badge/IEEE-DCHPC_2026-047857?style=flat-square&logo=ieee&logoColor=white&labelColor=040908)](https://doi.org/10.1109/DCHPC69296.2026.11517248)
-[![Zenodo](https://img.shields.io/badge/Zenodo-OPEN_SOFTWARE-047857?style=flat-square&logo=zenodo&logoColor=white&labelColor=040908)](https://doi.org/10.5281/zenodo.17427199)
-![Profile Views](https://komarev.com/ghpvc/?username=Kxrma47&style=flat-square&color=047857&label=PROFILE+VIEWS)
+<a href="https://www.hse.ru/org/persons/1156238559/"><img height="28" src="./assets/badges/hse.svg?v=1" alt="HSE profile" /></a>&nbsp;
+<a href="https://orcid.org/0009-0008-3537-3794"><img height="28" src="./assets/badges/orcid.svg?v=1" alt="ORCID profile" /></a>&nbsp;
+<a href="https://doi.org/10.1109/DCHPC69296.2026.11517248"><img height="28" src="./assets/badges/ieee.svg?v=1" alt="IEEE paper" /></a>&nbsp;
+<a href="https://doi.org/10.5281/zenodo.17427199"><img height="28" src="./assets/badges/zenodo.svg?v=1" alt="Zenodo software" /></a>&nbsp;
+<img height="28" src="https://komarev.com/ghpvc/?username=Kxrma47&amp;style=flat-square&amp;color=0B2E26&amp;label=VIEWS" alt="Profile views" />
 
 </div>
 
