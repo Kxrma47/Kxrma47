@@ -5,8 +5,7 @@
 <a href="https://www.hse.ru/org/persons/1156238559/"><img height="28" src="./assets/badges/hse.svg?v=1" alt="HSE profile" /></a>&nbsp;
 <a href="https://orcid.org/0009-0008-3537-3794"><img height="28" src="./assets/badges/orcid.svg?v=1" alt="ORCID profile" /></a>&nbsp;
 <a href="https://doi.org/10.1109/DCHPC69296.2026.11517248"><img height="28" src="./assets/badges/ieee.svg?v=1" alt="IEEE paper" /></a>&nbsp;
-<a href="https://doi.org/10.5281/zenodo.17427199"><img height="28" src="./assets/badges/zenodo.svg?v=1" alt="Zenodo software" /></a>&nbsp;
-<img height="28" src="https://komarev.com/ghpvc/?username=Kxrma47&amp;style=flat-square&amp;color=0B2E26&amp;label=VIEWS" alt="Profile views" />
+<a href="https://doi.org/10.5281/zenodo.17427199"><img height="28" src="./assets/badges/zenodo.svg?v=1" alt="Zenodo software" /></a>
 
 </div>
 
