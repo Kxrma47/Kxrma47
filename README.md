@@ -49,9 +49,9 @@
 <img width="100%" src="./assets/contribution-trace.svg?v=5" alt="QNODE Contribution Trace" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/github-contribution-grid-snake-dark.svg?v=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/github-contribution-grid-snake.svg?v=6" />
-  <img width="100%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/github-contribution-grid-snake.svg?v=6" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/contribution-snake-terminal-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/contribution-snake-terminal.svg" />
+  <img width="100%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/contribution-snake-terminal.svg" />
 </picture>
 
 <img width="100%" src="./assets/sections/05-current-vector.svg?v=5" alt="05 // Current Vector" />
