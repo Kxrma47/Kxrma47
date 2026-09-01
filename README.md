@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/profile-banner.svg" alt="Kxrma47 | Software Engineering, Quantum Computing and ML Research" />
+<img width="100%" src="./assets/profile-banner.svg?v=4" alt="Kxrma47 | Software Engineering, Quantum Computing and ML Research" />
 
 <div align="center">
 
@@ -28,10 +28,10 @@
 <img width="100%" src="./assets/sections/02-featured-systems.svg" alt="02 // Featured Systems" />
 
 <div align="center">
-  <a href="https://github.com/Kxrma47/ml-host-anomaly-detection"><img width="49%" src="./assets/projects/ml-anomaly.svg" alt="ML Host Anomaly Detection" /></a>
-  <a href="https://github.com/Kxrma47/Plugin-For-Moodle"><img width="49%" src="./assets/projects/moodle-poll.svg" alt="Moodle Poll Block" /></a>
-  <a href="https://github.com/Kxrma47/Defense-Scheduler-System"><img width="49%" src="./assets/projects/defense-scheduler.svg" alt="Defense Scheduler" /></a>
-  <a href="https://github.com/Kxrma47/SolidJS-Prototype-for-Visualizing-Model-Support-and-Relationships-Generalized-bModelTest-"><img width="49%" src="./assets/projects/bmodel-visualizer.svg" alt="bModel Visualizer" /></a>
+  <a href="https://github.com/Kxrma47/ml-host-anomaly-detection"><img width="49%" src="./assets/projects/ml-anomaly.svg?v=4" alt="ML Host Anomaly Detection" /></a>
+  <a href="https://github.com/Kxrma47/Plugin-For-Moodle"><img width="49%" src="./assets/projects/moodle-poll.svg?v=4" alt="Moodle Poll Block" /></a>
+  <a href="https://github.com/Kxrma47/Defense-Scheduler-System"><img width="49%" src="./assets/projects/defense-scheduler.svg?v=4" alt="Defense Scheduler" /></a>
+  <a href="https://github.com/Kxrma47/SolidJS-Prototype-for-Visualizing-Model-Support-and-Relationships-Generalized-bModelTest-"><img width="49%" src="./assets/projects/bmodel-visualizer.svg?v=4" alt="bModel Visualizer" /></a>
 </div>
 
 <img width="100%" src="./assets/sections/03-engineering-toolkit.svg" alt="03 // Engineering Toolkit" />

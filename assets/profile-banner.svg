@@ -1,30 +1,23 @@
-<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Kxrma47 software engineering profile</title>
-  <desc id="desc">A minimal engineering terminal with an animated Bell-state circuit.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="250" gradientUnits="userSpaceOnUse"><stop stop-color="#050A12"/><stop offset=".62" stop-color="#07131E"/><stop offset="1" stop-color="#0A1830"/></linearGradient>
-    <linearGradient id="line" x1="48" y1="0" x2="560" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6" stop-opacity=".15"/></linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#A5F3FC" stroke-opacity=".025"/></pattern>
-    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <clipPath id="clip"><rect x="1" y="1" width="1198" height="248" rx="15"/></clipPath>
-  </defs>
-  <g clip-path="url(#clip)"><rect x="1" y="1" width="1198" height="248" rx="15" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="248" rx="15" fill="url(#grid)"/><circle cx="1035" cy="125" r="220" fill="#22D3EE" fill-opacity=".025"/></g>
-  <rect x="1" y="1" width="1198" height="248" rx="15" stroke="#1B5264" stroke-width="1.5"/>
+<svg width="1200" height="230" viewBox="0 0 1200 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kxrma47 engineering terminal</title><desc id="desc">Minimal hacker terminal with a Bell-state circuit.</desc>
+  <defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 3.5H4" stroke="#D6FFE9" stroke-opacity=".018"/></pattern><filter id="g" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect x="1" y="1" width="1198" height="228" rx="10" fill="#040908" stroke="#155E52" stroke-width="1.5"/><rect x="1" y="1" width="1198" height="228" rx="10" fill="url(#scan)"/>
+  <path d="M1 34H1199M682 34V229" stroke="#12382F"/>
   <g font-family="ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace">
-    <circle cx="31" cy="30" r="3" fill="#34D399"/><text x="43" y="34" fill="#64748B" font-size="11" letter-spacing=".7">qnode / profile</text>
-    <text x="48" y="112" fill="#F8FAFC" font-size="48" font-weight="700" letter-spacing="3">KXRMA47</text>
-    <rect x="295" y="74" width="3" height="45" rx="1.5" fill="#22D3EE"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
-    <text x="49" y="144" fill="#67E8F9" font-size="14" font-weight="600" letter-spacing="1.8">SOFTWARE ENGINEERING · QUANTUM SYSTEMS · MACHINE LEARNING</text>
-    <rect x="48" y="162" width="512" height="1.5" fill="url(#line)"/>
-    <text x="49" y="190" fill="#94A3B8" font-size="12">Building tested software for research and complex systems.</text>
-    <text x="49" y="218" fill="#64748B" font-size="10.5" letter-spacing="1">HSE RESEARCH · OPEN SOURCE · REPRODUCIBLE ENGINEERING</text>
-    <text x="728" y="49" fill="#64748B" font-size="10" letter-spacing="1.4">BELL STATE / LIVE</text>
-    <text x="729" y="99" fill="#64748B" font-size="11">q0</text><text x="729" y="159" fill="#64748B" font-size="11">q1</text>
-    <path d="M765 95H1128M765 155H1128" stroke="#334155" stroke-width="1.5"/>
-    <rect x="822" y="77" width="36" height="36" rx="5" fill="#0B1220" stroke="#8B5CF6" stroke-width="1.5"/><text x="840" y="101" fill="#DDD6FE" font-size="15" font-weight="700" text-anchor="middle">H</text>
-    <path d="M929 95V155" stroke="#22D3EE" stroke-width="1.5"/><circle cx="929" cy="95" r="5" fill="#22D3EE" filter="url(#glow)"/><circle cx="929" cy="155" r="13" fill="#07131E" stroke="#8B5CF6" stroke-width="1.5"/><path d="M921 155H937M929 147V163" stroke="#C4B5FD" stroke-width="1.5"/>
-    <path d="M1031 83A12 12 0 0 1 1055 83M1043 83L1051 72M1031 143A12 12 0 0 1 1055 143M1043 143L1051 132" stroke="#67E8F9" stroke-width="1.3"/>
-    <circle cx="770" cy="95" r="3.5" fill="#22D3EE" filter="url(#glow)"><animate attributeName="cx" values="770;840;929;1043" dur="4.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="4.5s" repeatCount="indefinite"/></circle>
-    <text x="728" y="205" fill="#A5F3FC" font-size="12">|Φ+⟩ = (|00⟩ + |11⟩) / √2</text>
+    <circle cx="22" cy="18" r="3" fill="#00E68A"/><text x="34" y="22" fill="#526B63" font-size="10.5">tty0  /  qnode</text><text x="1090" y="22" fill="#00E68A" font-size="9.5">● ONLINE</text>
+    <text x="42" y="67" fill="#00E68A" font-size="11">kxrma47@qnode:~$</text><text x="175" y="67" fill="#7C948C" font-size="11">whoami</text>
+    <text x="42" y="124" fill="#F1FFF8" font-size="48" font-weight="700" letter-spacing="3">KXRMA47</text><rect x="292" y="86" width="3" height="43" fill="#00E68A"><animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/></rect>
+    <text x="43" y="156" fill="#4AF3C0" font-size="14" font-weight="600" letter-spacing="1.3">SOFTWARE ENGINEER / RESEARCH SYSTEMS</text>
+    <text x="43" y="186" fill="#81988F" font-size="11.5">quantum computing · machine learning · open source</text>
+    <text x="43" y="211" fill="#3F5C53" font-size="10">status: building reliable systems from difficult ideas</text>
+
+    <text x="718" y="61" fill="#3F5C53" font-size="10" letter-spacing="1.2">/proc/qpu/bell_state</text><text x="1091" y="61" fill="#00E68A" font-size="9.5">RUNNING</text>
+    <text x="719" y="105" fill="#70877F" font-size="11">q0 |0⟩</text><text x="719" y="163" fill="#70877F" font-size="11">q1 |0⟩</text>
+    <path d="M782 101H1127M782 159H1127" stroke="#244C41" stroke-width="1.4"/>
+    <rect x="830" y="85" width="32" height="32" rx="3" fill="#06110E" stroke="#00E68A"/><text x="846" y="106" fill="#B9FFDC" font-size="14" font-weight="700" text-anchor="middle">H</text>
+    <path d="M932 101V159" stroke="#00E68A"/><circle cx="932" cy="101" r="4.5" fill="#00E68A" filter="url(#g)"/><circle cx="932" cy="159" r="12" fill="#040908" stroke="#00E68A"/><path d="M924 159H940M932 151V167" stroke="#B9FFDC"/>
+    <rect x="1031" y="85" width="38" height="32" rx="3" fill="#06110E" stroke="#22D3EE"/><rect x="1031" y="143" width="38" height="32" rx="3" fill="#06110E" stroke="#22D3EE"/><text x="1050" y="106" fill="#A5F3FC" font-size="11" text-anchor="middle">M</text><text x="1050" y="164" fill="#A5F3FC" font-size="11" text-anchor="middle">M</text>
+    <circle cx="786" cy="101" r="3" fill="#00E68A" filter="url(#g)"><animate attributeName="cx" values="786;846;932;1050" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/></circle>
+    <text x="719" y="205" fill="#4AF3C0" font-size="11.5">output  |Φ+⟩  ::  00 / 11</text>
   </g>
 </svg>
