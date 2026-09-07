@@ -5,6 +5,7 @@
 <a href="https://www.hse.ru/org/persons/1156238559/"><img height="28" src="./assets/badges/hse.svg?v=1" alt="HSE profile" /></a>&nbsp;
 <a href="https://orcid.org/0009-0008-3537-3794"><img height="28" src="./assets/badges/orcid.svg?v=1" alt="ORCID profile" /></a>&nbsp;
 <a href="https://doi.org/10.1109/DCHPC69296.2026.11517248"><img height="28" src="./assets/badges/ieee.svg?v=1" alt="IEEE paper" /></a>&nbsp;
+<a href="https://www.scopus.com/authid/detail.uri?authorId=60688133900"><img height="28" src="./assets/badges/scopus.svg?v=1" alt="Scopus author profile" /></a>&nbsp;
 <a href="https://doi.org/10.5281/zenodo.17427199"><img height="28" src="./assets/badges/zenodo.svg?v=1" alt="Zenodo software" /></a>
 
 </div>
@@ -18,7 +19,7 @@
 <img width="100%" src="./assets/sections/01-research-impact.svg?v=5" alt="01 // Research Impact" />
 
 - **IEEE DCHPC 2026** — [Quantum Gantt Charts for Spatial Data Engineering](https://doi.org/10.1109/DCHPC69296.2026.11517248).
-  <sub>Indexed in <a href="https://ieeexplore.ieee.org/document/11517248">IEEE Xplore</a> · <a href="https://ui.adsabs.harvard.edu/abs/2026dchp.conf17248M/abstract">NASA ADS</a> · <a href="https://publications.hse.ru/en/preprints/1164063820">HSE Publications</a> · <a href="https://eurekamag.com/research/107/718/107718048">EurekaMag</a></sub>
+  <sub>Indexed in <a href="https://www.scopus.com/authid/detail.uri?authorId=60688133900">Scopus</a> · <a href="https://ieeexplore.ieee.org/document/11517248">IEEE Xplore</a> · <a href="https://ui.adsabs.harvard.edu/abs/2026dchp.conf17248M/abstract">NASA ADS</a> · <a href="https://publications.hse.ru/en/preprints/1164063820">HSE Publications</a> · <a href="https://eurekamag.com/research/107/718/107718048">EurekaMag</a></sub>
 - **CEOP benchmark** — 39 formulations, 14 optimizers, and 37 validation tests.
 - **Host anomaly detection** — 1,439 telemetry samples; 26/26 injected anomalies detected.
 - **Open software** — [Defense Scheduler System v1.0.0](https://doi.org/10.5281/zenodo.17427199) on Zenodo.
