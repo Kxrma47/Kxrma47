@@ -17,12 +17,9 @@
 `QUANTUM SYSTEMS` · `ML ENGINEERING` · `FULL-STACK` · `REPRODUCIBLE RESEARCH`
 
 <div align="center">
-  <a href="https://qnode-repo-auditor.onrender.com"><img width="76" src="https://raw.githubusercontent.com/Kxrma47/qnode-repo-auditor/main/qnode_auditor/static/qnode-app-icon.jpg" alt="QNode Repository Auditor app icon" /></a><br>
-  <a href="https://qnode-repo-auditor.onrender.com"><strong>▶ TRY QNODE REPOSITORY AUDITOR</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/apps/qnode-repository-auditor">INSTALL GITHUB APP</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Kxrma47/qnode-repo-auditor">SOURCE</a>
+  <a href="https://qnode-repo-auditor.onrender.com"><img height="32" align="middle" src="https://raw.githubusercontent.com/Kxrma47/qnode-repo-auditor/main/qnode_auditor/static/qnode-app-icon.jpg" alt="QNode logo" /></a>
+  &nbsp;<a href="https://github.com/apps/qnode-repository-auditor"><strong>GITHUB APP</strong></a>
+  &nbsp;·&nbsp;<a href="https://qnode-repo-auditor.onrender.com"><strong>WEBSITE</strong></a>
 </div>
 
 <img width="100%" src="./assets/sections/01-research-impact.svg?v=5" alt="01 // Research Impact" />
