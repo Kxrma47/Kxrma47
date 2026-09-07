@@ -16,6 +16,14 @@
 
 `QUANTUM SYSTEMS` · `ML ENGINEERING` · `FULL-STACK` · `REPRODUCIBLE RESEARCH`
 
+<div align="center">
+  <a href="https://qnode-repo-auditor.onrender.com"><strong>▶ TRY QNODE REPOSITORY AUDITOR</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/apps/qnode-repository-auditor">INSTALL GITHUB APP</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Kxrma47/qnode-repo-auditor">SOURCE</a>
+</div>
+
 <img width="100%" src="./assets/sections/01-research-impact.svg?v=5" alt="01 // Research Impact" />
 
 - **IEEE DCHPC 2026** — [Quantum Gantt Charts for Spatial Data Engineering](https://doi.org/10.1109/DCHPC69296.2026.11517248).
@@ -23,6 +31,7 @@
 - **CEOP benchmark** — 39 formulations, 14 optimizers, and 37 validation tests.
 - **Host anomaly detection** — 1,439 telemetry samples; 26/26 injected anomalies detected.
 - **Open software** — [Defense Scheduler System v1.0.0](https://doi.org/10.5281/zenodo.17427199) on Zenodo.
+- **Repository intelligence** — [QNode](https://qnode-repo-auditor.onrender.com) audits public repositories and pull requests using privacy-first path and metadata analysis.
 - **Awards** — Open Doors Winner; High Achievements Diploma in Applied Mathematics & AI.
 
 <img width="100%" src="./assets/sections/02-featured-systems.svg?v=5" alt="02 // Featured Systems" />
