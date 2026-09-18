@@ -1,73 +1,82 @@
-<img width="100%" src="./assets/profile-banner.svg?v=4" alt="Kxrma47 | Software Engineering, Quantum Computing and ML Research" />
-
 <div align="center">
 
-<a href="https://www.hse.ru/org/persons/1156238559/"><img height="28" src="./assets/badges/hse.svg?v=1" alt="HSE profile" /></a>&nbsp;
-<a href="https://orcid.org/0009-0008-3537-3794"><img height="28" src="./assets/badges/orcid.svg?v=1" alt="ORCID profile" /></a>&nbsp;
-<a href="https://doi.org/10.1109/DCHPC69296.2026.11517248"><img height="28" src="./assets/badges/ieee.svg?v=1" alt="IEEE paper" /></a>&nbsp;
-<a href="https://www.scopus.com/authid/detail.uri?authorId=60688133900"><img height="28" src="./assets/badges/scopus.svg?v=1" alt="Scopus author profile" /></a>&nbsp;
-<a href="https://doi.org/10.5281/zenodo.17427199"><img height="28" src="./assets/badges/zenodo.svg?v=1" alt="Zenodo software" /></a>
+# `KXRMA47 // MAHIDUL HAQUE`
+
+`RESEARCH SOFTWARE` · `MACHINE LEARNING` · `SCIENTIFIC COMPUTING`
+
+[![HSE](https://img.shields.io/badge/HSE-PROFILE-00c853?style=flat-square&labelColor=0d1117)](https://www.hse.ru/org/persons/1156238559/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--3537--3794-00c853?style=flat-square&labelColor=0d1117)](https://orcid.org/0009-0008-3537-3794)
+[![IEEE](https://img.shields.io/badge/IEEE-PUBLICATION-00c853?style=flat-square&labelColor=0d1117)](https://doi.org/10.1109/DCHPC69296.2026.11517248)
+[![Scopus](https://img.shields.io/badge/SCOPUS-AUTHOR-00c853?style=flat-square&labelColor=0d1117)](https://www.scopus.com/authid/detail.uri?authorId=60688133900)
 
 </div>
 
-<img width="100%" src="./assets/sections/00-system-manifest.svg?v=5" alt="00 // System Manifest" />
+```text
+$ whoami
+Research software and machine-learning engineer.
 
-**Research Intern at HSE University** and software engineering graduate building tested systems for quantum computing, machine learning, scientific visualization, and the web.
+$ cat focus.txt
+Reproducible scientific systems · optimization · computational biology
+security analytics · developer tooling · scientific visualization
 
-`QUANTUM SYSTEMS` · `ML ENGINEERING` · `FULL-STACK` · `REPRODUCIBLE RESEARCH`
+$ pwd
+HSE University · Moscow, Russia
+```
 
-<div align="center">
-  <a href="https://qnode-repo-auditor.onrender.com"><img height="32" align="middle" src="https://raw.githubusercontent.com/Kxrma47/qnode-repo-auditor/main/qnode_auditor/static/qnode-app-icon.jpg" alt="QNode logo" /></a>
-  &nbsp;<a href="https://github.com/apps/qnode-repository-auditor"><strong>GITHUB APP</strong></a>
-  &nbsp;·&nbsp;<a href="https://qnode-repo-auditor.onrender.com"><strong>WEBSITE</strong></a>
-</div>
+I build tested, reproducible software for research and engineering. My work
+connects scientific computing with practical systems: from phylogenetic tools
+and evolutionary-optimization experiments to host anomaly detection and GitHub
+repository intelligence.
 
-<img width="100%" src="./assets/sections/01-research-impact.svg?v=5" alt="01 // Research Impact" />
+## `./selected-work`
 
-- **IEEE DCHPC 2026** — [Quantum Gantt Charts for Spatial Data Engineering](https://doi.org/10.1109/DCHPC69296.2026.11517248).
-  <sub>Indexed in <a href="https://www.scopus.com/authid/detail.uri?authorId=60688133900">Scopus</a> · <a href="https://ieeexplore.ieee.org/document/11517248">IEEE Xplore</a> · <a href="https://ui.adsabs.harvard.edu/abs/2026dchp.conf17248M/abstract">NASA ADS</a> · <a href="https://publications.hse.ru/en/preprints/1164063820">HSE Publications</a> · <a href="https://eurekamag.com/research/107/718/107718048">EurekaMag</a></sub>
-- **CEOP benchmark** — 39 formulations, 14 optimizers, and 37 validation tests.
-- **Host anomaly detection** — 1,439 telemetry samples; 26/26 injected anomalies detected.
-- **Open software** — [Defense Scheduler System v1.0.0](https://doi.org/10.5281/zenodo.17427199) on Zenodo.
-- **Repository intelligence** — [QNode](https://qnode-repo-auditor.onrender.com) audits public repositories and pull requests using privacy-first path and metadata analysis.
-- **Awards** — Open Doors Winner; High Achievements Diploma in Applied Mathematics & AI.
+| Project | What it does | Stack |
+|---|---|---|
+| **[QNode Repository Auditor](https://github.com/Kxrma47/qnode-repo-auditor)** | Deployed GitHub App for repository readiness, pull-request risk, companion-test suggestions, CODEOWNERS coverage, and review maps. **[Live app](https://qnode-repo-auditor.onrender.com)** | Python · GitHub API · GitHub Checks |
+| **[Aspartik contributions](https://github.com/kaathewisegit/aspartik/pulls?q=is%3Apr+author%3AKxrma47)** | Upstream phylogenetic tree models, distance algorithms, Python bindings, NEXUS/Newick parsing, SVG rendering, tests, fixtures, and benchmarks. | Rust · Python · PyO3 |
+| **[CEOP research software](https://github.com/Wikience/swarm-ceop-2026)** | Reproducible evaluation tooling for evolutionary optimizers across 39 constrained engineering problems. | Python · optimization · statistical evaluation |
+| **[ML Host Anomaly Detection](https://github.com/Kxrma47/ml-host-anomaly-detection)** | Privacy-aware UEBA research prototype using host telemetry, autoencoder scoring, calibrated rules, and chronological evaluation. | Python · PyTorch · security analytics |
 
-<img width="100%" src="./assets/sections/02-featured-systems.svg?v=5" alt="02 // Featured Systems" />
+## `./research-output`
 
-<div align="center">
-  <a href="https://github.com/Kxrma47/ml-host-anomaly-detection"><img width="49%" src="./assets/projects/ml-anomaly.svg?v=4" alt="ML Host Anomaly Detection" /></a>
-  <a href="https://github.com/Kxrma47/Plugin-For-Moodle"><img width="49%" src="./assets/projects/moodle-poll.svg?v=4" alt="Moodle Poll Block" /></a>
-  <a href="https://github.com/Kxrma47/Defense-Scheduler-System"><img width="49%" src="./assets/projects/defense-scheduler.svg?v=4" alt="Defense Scheduler" /></a>
-  <a href="https://github.com/Kxrma47/SolidJS-Prototype-for-Visualizing-Model-Support-and-Relationships-Generalized-bModelTest-"><img width="49%" src="./assets/projects/bmodel-visualizer.svg?v=4" alt="bModel Visualizer" /></a>
-</div>
+### Quantum Gantt Charts for Spatial Data Engineering
 
-<img width="100%" src="./assets/sections/03-engineering-toolkit.svg?v=5" alt="03 // Engineering Toolkit" />
+IEEE DCHPC 2026 conference paper on visualizing spatial-data workflows and
+quantum-inspired candidate stages.
 
-**Core:** Python · TypeScript · Java · C++<br>
-**Research:** Qiskit · PyTorch · scikit-learn · SciPy<br>
-**Systems:** React · SolidJS · D3 · Flask · PostgreSQL · Docker · Playwright
+[DOI](https://doi.org/10.1109/DCHPC69296.2026.11517248) ·
+[IEEE Xplore](https://ieeexplore.ieee.org/document/11517248) ·
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=60688133900) ·
+[NASA ADS](https://ui.adsabs.harvard.edu/abs/2026dchp.conf17248M/abstract)
 
-<img width="100%" src="./assets/sections/04-github-signal.svg?v=5" alt="04 // GitHub Signal" />
+The publication is indexed in **Scopus** and the **NASA Astrophysics Data System
+(NASA ADS)**.
 
-<div align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kxrma47&amp;theme=github_dark" alt="Kxrma47 GitHub statistics" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kxrma47&amp;theme=github_dark" alt="Kxrma47 top languages by repository" />
-</div>
+### Defense Scheduler System
 
-<img width="100%" src="./assets/contribution-trace.svg?v=5" alt="QNODE Contribution Trace" />
+Role-based academic scheduling software with defense windows, polling, voting,
+authentication, notes, and data export.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/contribution-snake-terminal-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/contribution-snake-terminal.svg" />
-  <img width="100%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/contribution-snake-terminal.svg" />
-</picture>
+[Repository](https://github.com/Kxrma47/Defense-Scheduler-System) ·
+[Zenodo release](https://doi.org/10.5281/zenodo.17427199)
 
-<img width="100%" src="./assets/sections/05-current-vector.svg?v=5" alt="05 // Current Vector" />
+## `./more-systems`
 
-- **Research Intern**, HSE Faculty of Computer Science / AI and Digital Sciences - 2026-present
-- **Research Assistant**, Swarm Intelligence & Evolutionary Optimization - 2024-present
-- **HSE University** — B.Sc. Software Engineering (2026); incoming M.Sc. Cognitive Sciences and Technologies (2026-2028)
+- **[Moodle Poll Plugin](https://github.com/Kxrma47/Plugin-For-Moodle)** — academic voting and scheduling with RBAC, CSRF protection, i18n, statistics, and Excel export.
+- **[RNA-seq Analysis](https://github.com/Kxrma47/RNA-seq-Analysis-of-Flor-Yeast-Development-in-Saccharomyces-cerevisiae)** — reproducible Snakemake, HISAT2, featureCounts, MultiQC, and DESeq2 workflow.
+- **[SolidJS bModel Visualizer](https://github.com/Kxrma47/SolidJS-Prototype-for-Visualizing-Model-Support-and-Relationships-Generalized-bModelTest-)** — interactive D3 visualization for phylogenetic model support.
 
-<div align="center">
-  <code>CHANNEL::OPEN</code> · research collaboration · software engineering
-</div>
+## `./toolchain`
+
+```text
+languages   Python · Rust · TypeScript · SQL · JavaScript · C++
+research    PyTorch · scikit-learn · Qiskit · DESeq2 · DADA2
+systems     PostgreSQL · Flask · Docker · RabbitMQ · GitHub Actions
+visuals     React · SolidJS · D3.js
+```
+
+## `./connect`
+
+Open to research-software collaboration and engineering opportunities.
+
+`mhaque@edu.hse.ru`
