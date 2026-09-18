@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-labelledby="title desc">
+  <title id="title">QNode Repository Auditor terminal demo</title>
+  <desc id="desc">Animated terminal demonstration of QNode repository readiness and pull-request intelligence capabilities.</desc>
+  <rect width="1000" height="390" rx="12" fill="#0d1117"/>
+  <rect x="1" y="1" width="998" height="388" rx="11" fill="none" stroke="#30363d" stroke-width="2"/>
+  <circle cx="28" cy="25" r="6" fill="#ff5f56"/>
+  <circle cx="50" cy="25" r="6" fill="#ffbd2e"/>
+  <circle cx="72" cy="25" r="6" fill="#27c93f"/>
+  <text x="500" y="30" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" text-anchor="middle">qnode — repository intelligence</text>
+  <line x1="1" y1="48" x2="999" y2="48" stroke="#30363d"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">
+    <text x="34" y="84" fill="#3fb950">max@kxrma47:~$</text>
+    <text x="232" y="84" fill="#f0f6fc">qnode audit Kxrma47/qnode-repo-auditor</text>
+
+    <g opacity="1">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.08;0.12;0.96;1" dur="9s" repeatCount="indefinite"/>
+      <text x="34" y="126" fill="#8b949e">[scan]</text>
+      <text x="130" y="126" fill="#f0f6fc">reading paths, metadata, checks, and CODEOWNERS...</text>
+    </g>
+
+    <g opacity="1">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.22;0.26;0.96;1" dur="9s" repeatCount="indefinite"/>
+      <text x="34" y="176" fill="#8b949e">readiness</text>
+      <text x="210" y="176" fill="#3fb950">safeguard checks complete</text>
+    </g>
+    <g opacity="1">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.34;0.38;0.96;1" dur="9s" repeatCount="indefinite"/>
+      <text x="34" y="216" fill="#8b949e">review-map</text>
+      <text x="210" y="216" fill="#f0f6fc">lanes + CODEOWNERS coverage ready</text>
+    </g>
+    <g opacity="1">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.46;0.50;0.96;1" dur="9s" repeatCount="indefinite"/>
+      <text x="34" y="256" fill="#8b949e">companions</text>
+      <text x="210" y="256" fill="#f0f6fc">test and lockfile suggestions enabled</text>
+    </g>
+    <g opacity="1">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.58;0.62;0.96;1" dur="9s" repeatCount="indefinite"/>
+      <text x="34" y="296" fill="#8b949e">privacy</text>
+      <text x="210" y="296" fill="#f0f6fc">paths + metadata; no source-content analysis</text>
+    </g>
+    <g opacity="1">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.70;0.74;0.96;1" dur="9s" repeatCount="indefinite"/>
+      <text x="34" y="346" fill="#3fb950">[done]</text>
+      <text x="130" y="346" fill="#3fb950">shareable report generated</text>
+      <rect x="460" y="329" width="10" height="22" fill="#3fb950"/>
+    </g>
+  </g>
+</svg>

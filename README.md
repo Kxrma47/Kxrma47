@@ -28,6 +28,8 @@ GitHub App for repository readiness, pull-request risk, companion-test
 suggestions, CODEOWNERS coverage, review maps, GitHub Checks, and shareable
 reports. [Run the live scanner](https://qnode-repo-auditor.onrender.com).
 
+<img width="100%" src="./assets/qnode-terminal-demo.svg" alt="Animated QNode Repository Auditor terminal demonstration" />
+
 ### `[UPSTREAM]` [Aspartik contributions](https://github.com/kaathewisegit/aspartik/pulls?q=is%3Apr+author%3AKxrma47)
 
 Rust and Python contributions covering phylogenetic tree models, distance
@@ -45,6 +47,20 @@ evaluation-budget calibration, validation, and execution control.
 Privacy-aware UEBA prototype using host telemetry, event-derived features,
 autoencoder scoring, calibrated rules, chronological evaluation, and structured
 reports.
+
+## `$ tail -n 5 ~/activity.log`
+
+<!-- RECENT-ACTIVITY:START -->
+
+```text
+[OPEN  ] github/advisory-database #9475  [GHSA-vwc7-r8mq-g2x9] adm-zip extraction follows destin...
+[MERGED] kaathewisegit/aspartik #32  [python/benches] Generalize tree-distance benchmark
+[MERGED] github/advisory-database #9463  [GHSA-4qpv-39hg-f7fx] @jhb.software/payload-alt-text-pl...
+[OPEN  ] kaathewisegit/aspartik #27  [data/tests] NEXUS: add compatibility fixtures
+[OPEN  ] kaathewisegit/aspartik #26  [data] NEXUS: stream trees into builders
+```
+
+<!-- RECENT-ACTIVITY:END -->
 
 ## `$ cat ./research-output`
 
@@ -86,6 +102,10 @@ RESEARCH="PyTorch scikit-learn Qiskit DESeq2 DADA2"
 SYSTEMS="PostgreSQL Flask Docker RabbitMQ GitHub-Actions"
 VISUALS="React SolidJS D3.js"
 ```
+
+## `$ ./activity-graph --watch`
+
+<img width="100%" src="./assets/activity-graph.svg" alt="Kxrma47 contribution activity during the last 52 weeks" />
 
 ## `$ ./contribution-snake --watch`
 
