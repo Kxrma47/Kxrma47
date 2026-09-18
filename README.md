@@ -103,6 +103,12 @@ SYSTEMS="PostgreSQL Flask Docker RabbitMQ GitHub-Actions"
 VISUALS="React SolidJS D3.js"
 ```
 
+## `$ ./github-signal --summary`
+
+<div align="center">
+  <img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kxrma47&amp;theme=github_dark" alt="Kxrma47 GitHub statistics: commits, pull requests, issues, and contributed repositories" />
+</div>
+
 ## `$ ./contribution-snake --watch`
 
 <picture>
