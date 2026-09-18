@@ -87,6 +87,14 @@ SYSTEMS="PostgreSQL Flask Docker RabbitMQ GitHub-Actions"
 VISUALS="React SolidJS D3.js"
 ```
 
+## `$ ./contribution-snake --watch`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/contribution-snake-terminal-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/contribution-snake-terminal.svg" />
+  <img width="100%" alt="Kxrma47 GitHub contribution snake" src="https://raw.githubusercontent.com/Kxrma47/Kxrma47/output/contribution-snake-terminal.svg" />
+</picture>
+
 ## `$ ping --contact`
 
 ```text
