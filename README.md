@@ -4,7 +4,6 @@
 
 `RESEARCH SOFTWARE` · `MACHINE LEARNING` · `SCIENTIFIC COMPUTING`
 
-[![HSE](https://img.shields.io/badge/HSE-PROFILE-00c853?style=flat-square&labelColor=0d1117)](https://www.hse.ru/org/persons/1156238559/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--3537--3794-00c853?style=flat-square&labelColor=0d1117)](https://orcid.org/0009-0008-3537-3794)
 [![IEEE](https://img.shields.io/badge/IEEE-PUBLICATION-00c853?style=flat-square&labelColor=0d1117)](https://doi.org/10.1109/DCHPC69296.2026.11517248)
 [![Scopus](https://img.shields.io/badge/SCOPUS-AUTHOR-00c853?style=flat-square&labelColor=0d1117)](https://www.scopus.com/authid/detail.uri?authorId=60688133900)
