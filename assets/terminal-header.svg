@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+  <title id="title">Kxrma47 terminal profile</title>
+  <desc id="desc">Terminal-style introduction for Mahidul Haque, research software and machine-learning engineer.</desc>
+  <rect width="1000" height="260" rx="12" fill="#0d1117"/>
+  <rect x="1" y="1" width="998" height="258" rx="11" fill="none" stroke="#30363d" stroke-width="2"/>
+  <circle cx="28" cy="25" r="6" fill="#ff5f56"/>
+  <circle cx="50" cy="25" r="6" fill="#ffbd2e"/>
+  <circle cx="72" cy="25" r="6" fill="#27c93f"/>
+  <text x="500" y="30" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" text-anchor="middle">terminal — kxrma47</text>
+  <line x1="1" y1="48" x2="999" y2="48" stroke="#30363d"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">
+    <text x="34" y="88" fill="#3fb950">max@kxrma47:~$</text>
+    <text x="232" y="88" fill="#f0f6fc">./profile --status</text>
+    <text x="34" y="130" fill="#8b949e">role</text>
+    <text x="160" y="130" fill="#f0f6fc">research software + machine learning</text>
+    <text x="34" y="168" fill="#8b949e">focus</text>
+    <text x="160" y="168" fill="#f0f6fc">scientific computing / biology / security</text>
+    <text x="34" y="206" fill="#8b949e">state</text>
+    <text x="160" y="206" fill="#3fb950">open to collaboration</text>
+    <rect x="425" y="188" width="11" height="22" fill="#3fb950">
+      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

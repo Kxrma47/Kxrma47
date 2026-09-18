@@ -1,44 +1,54 @@
 <div align="center">
 
-# `KXRMA47 // MAHIDUL HAQUE`
+<img width="100%" src="./assets/terminal-header.svg" alt="Mahidul Haque terminal profile: research software and machine learning" />
 
-`RESEARCH SOFTWARE` · `MACHINE LEARNING` · `SCIENTIFIC COMPUTING`
-
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--3537--3794-00c853?style=flat-square&labelColor=0d1117)](https://orcid.org/0009-0008-3537-3794)
-[![IEEE](https://img.shields.io/badge/IEEE-PUBLICATION-00c853?style=flat-square&labelColor=0d1117)](https://doi.org/10.1109/DCHPC69296.2026.11517248)
-[![Scopus](https://img.shields.io/badge/SCOPUS-AUTHOR-00c853?style=flat-square&labelColor=0d1117)](https://www.scopus.com/authid/detail.uri?authorId=60688133900)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--3537--3794-3fb950?style=flat-square&labelColor=0d1117)](https://orcid.org/0009-0008-3537-3794)
+[![IEEE](https://img.shields.io/badge/IEEE-PUBLICATION-3fb950?style=flat-square&labelColor=0d1117)](https://doi.org/10.1109/DCHPC69296.2026.11517248)
+[![Scopus](https://img.shields.io/badge/SCOPUS-AUTHOR-3fb950?style=flat-square&labelColor=0d1117)](https://www.scopus.com/authid/detail.uri?authorId=60688133900)
 
 </div>
 
+I build tested, reproducible systems for research and engineering—from
+phylogenetic software and evolutionary-optimization experiments to host anomaly
+detection and GitHub repository intelligence.
+
+## `$ tree ~/selected-work`
+
 ```text
-$ whoami
-Research software and machine-learning engineer.
-
-$ cat focus.txt
-Reproducible scientific systems · optimization · computational biology
-security analytics · developer tooling · scientific visualization
-
-$ pwd
-HSE University · Moscow, Russia
+selected-work/
+├── qnode/          [DEPLOYED]  repository and pull-request intelligence
+├── aspartik/       [UPSTREAM]  phylogenetic research software
+├── swarm-ceop/     [RESEARCH]  constrained-optimization benchmarking
+└── hostwatch/      [PROTOTYPE] privacy-aware host anomaly detection
 ```
 
-I build tested, reproducible software for research and engineering. My work
-connects scientific computing with practical systems: from phylogenetic tools
-and evolutionary-optimization experiments to host anomaly detection and GitHub
-repository intelligence.
+### `[DEPLOYED]` [QNode Repository Auditor](https://github.com/Kxrma47/qnode-repo-auditor)
 
-## `./selected-work`
+GitHub App for repository readiness, pull-request risk, companion-test
+suggestions, CODEOWNERS coverage, review maps, GitHub Checks, and shareable
+reports. [Run the live scanner](https://qnode-repo-auditor.onrender.com).
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[QNode Repository Auditor](https://github.com/Kxrma47/qnode-repo-auditor)** | Deployed GitHub App for repository readiness, pull-request risk, companion-test suggestions, CODEOWNERS coverage, and review maps. **[Live app](https://qnode-repo-auditor.onrender.com)** | Python · GitHub API · GitHub Checks |
-| **[Aspartik contributions](https://github.com/kaathewisegit/aspartik/pulls?q=is%3Apr+author%3AKxrma47)** | Upstream phylogenetic tree models, distance algorithms, Python bindings, NEXUS/Newick parsing, SVG rendering, tests, fixtures, and benchmarks. | Rust · Python · PyO3 |
-| **[CEOP research software](https://github.com/Wikience/swarm-ceop-2026)** | Reproducible evaluation tooling for evolutionary optimizers across 39 constrained engineering problems. | Python · optimization · statistical evaluation |
-| **[ML Host Anomaly Detection](https://github.com/Kxrma47/ml-host-anomaly-detection)** | Privacy-aware UEBA research prototype using host telemetry, autoencoder scoring, calibrated rules, and chronological evaluation. | Python · PyTorch · security analytics |
+### `[UPSTREAM]` [Aspartik contributions](https://github.com/kaathewisegit/aspartik/pulls?q=is%3Apr+author%3AKxrma47)
 
-## `./research-output`
+Rust and Python contributions covering phylogenetic tree models, distance
+algorithms, Python bindings, NEXUS/Newick parsing, SVG rendering, fixtures,
+tests, and benchmarks.
 
-### Quantum Gantt Charts for Spatial Data Engineering
+### `[RESEARCH]` [CEOP research software](https://github.com/Wikience/swarm-ceop-2026)
+
+Reproducible evaluation tooling for evolutionary optimizers across 39
+constrained engineering problems, including implementation auditing,
+evaluation-budget calibration, validation, and execution control.
+
+### `[PROTOTYPE]` [ML Host Anomaly Detection](https://github.com/Kxrma47/ml-host-anomaly-detection)
+
+Privacy-aware UEBA prototype using host telemetry, event-derived features,
+autoencoder scoring, calibrated rules, chronological evaluation, and structured
+reports.
+
+## `$ cat ./research-output`
+
+### `[PUBLISHED]` Quantum Gantt Charts for Spatial Data Engineering
 
 IEEE DCHPC 2026 conference paper on visualizing spatial-data workflows and
 quantum-inspired candidate stages.
@@ -48,10 +58,9 @@ quantum-inspired candidate stages.
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=60688133900) ·
 [NASA ADS](https://ui.adsabs.harvard.edu/abs/2026dchp.conf17248M/abstract)
 
-The publication is indexed in **Scopus** and the **NASA Astrophysics Data System
-(NASA ADS)**.
+Indexed in **Scopus** and the **NASA Astrophysics Data System (NASA ADS)**.
 
-### Defense Scheduler System
+### `[RELEASED]` Defense Scheduler System
 
 Role-based academic scheduling software with defense windows, polling, voting,
 authentication, notes, and data export.
@@ -59,23 +68,29 @@ authentication, notes, and data export.
 [Repository](https://github.com/Kxrma47/Defense-Scheduler-System) ·
 [Zenodo release](https://doi.org/10.5281/zenodo.17427199)
 
-## `./more-systems`
+<details>
+<summary><code>$ ls ./more-systems</code></summary>
+<br>
 
 - **[Moodle Poll Plugin](https://github.com/Kxrma47/Plugin-For-Moodle)** — academic voting and scheduling with RBAC, CSRF protection, i18n, statistics, and Excel export.
 - **[RNA-seq Analysis](https://github.com/Kxrma47/RNA-seq-Analysis-of-Flor-Yeast-Development-in-Saccharomyces-cerevisiae)** — reproducible Snakemake, HISAT2, featureCounts, MultiQC, and DESeq2 workflow.
 - **[SolidJS bModel Visualizer](https://github.com/Kxrma47/SolidJS-Prototype-for-Visualizing-Model-Support-and-Relationships-Generalized-bModelTest-)** — interactive D3 visualization for phylogenetic model support.
 
-## `./toolchain`
+</details>
+
+## `$ env | sort`
 
 ```text
-languages   Python · Rust · TypeScript · SQL · JavaScript · C++
-research    PyTorch · scikit-learn · Qiskit · DESeq2 · DADA2
-systems     PostgreSQL · Flask · Docker · RabbitMQ · GitHub Actions
-visuals     React · SolidJS · D3.js
+LANGUAGES="Python Rust TypeScript SQL JavaScript C++"
+RESEARCH="PyTorch scikit-learn Qiskit DESeq2 DADA2"
+SYSTEMS="PostgreSQL Flask Docker RabbitMQ GitHub-Actions"
+VISUALS="React SolidJS D3.js"
 ```
 
-## `./connect`
+## `$ ping --contact`
 
-Open to research-software collaboration and engineering opportunities.
-
-`mhaque@edu.hse.ru`
+```text
+target   research software · machine-learning engineering · open source
+status   available for collaboration
+email    mhaque@edu.hse.ru
+```
