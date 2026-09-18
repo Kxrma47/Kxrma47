@@ -103,10 +103,6 @@ SYSTEMS="PostgreSQL Flask Docker RabbitMQ GitHub-Actions"
 VISUALS="React SolidJS D3.js"
 ```
 
-## `$ ./activity-graph --watch`
-
-<img width="100%" src="./assets/activity-graph.svg" alt="Kxrma47 contribution activity during the last 52 weeks" />
-
 ## `$ ./contribution-snake --watch`
 
 <picture>
