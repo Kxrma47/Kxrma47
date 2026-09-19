@@ -28,6 +28,8 @@ GitHub App for repository readiness, pull-request risk, companion-test
 suggestions, CODEOWNERS coverage, review maps, GitHub Checks, and shareable
 reports. [Run the live scanner](https://qnode-repo-auditor.onrender.com).
 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/14715/badge)](https://www.bestpractices.dev/projects/14715)
+
 <img width="100%" src="./assets/qnode-terminal-demo.svg" alt="Animated QNode Repository Auditor terminal demonstration" />
 
 ### `[UPSTREAM]` [Aspartik contributions](https://github.com/kaathewisegit/aspartik/pulls?q=is%3Apr+author%3AKxrma47)
