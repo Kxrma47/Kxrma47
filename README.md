@@ -53,11 +53,11 @@ reports.
 <!-- RECENT-ACTIVITY:START -->
 
 ```text
+[OPEN  ] kaathewisegit/aspartik #33  [python/tests] Test RF matrices on BEAST trees
+[CLOSED] kaathewisegit/aspartik #30  [python/benches] Benchmark RF matrices
+[CLOSED] kaathewisegit/aspartik #31  [data/python] Expose triplet distance
 [OPEN  ] github/advisory-database #9475  [GHSA-vwc7-r8mq-g2x9] adm-zip extraction follows destin...
 [MERGED] kaathewisegit/aspartik #32  [python/benches] Generalize tree-distance benchmark
-[MERGED] github/advisory-database #9463  [GHSA-4qpv-39hg-f7fx] @jhb.software/payload-alt-text-pl...
-[OPEN  ] kaathewisegit/aspartik #27  [data/tests] NEXUS: add compatibility fixtures
-[OPEN  ] kaathewisegit/aspartik #26  [data] NEXUS: stream trees into builders
 ```
 
 <!-- RECENT-ACTIVITY:END -->
