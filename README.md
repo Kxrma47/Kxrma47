@@ -55,11 +55,11 @@ reports.
 <!-- RECENT-ACTIVITY:START -->
 
 ```text
-[OPEN  ] kaathewisegit/aspartik #33  [python/tests] Test RF matrices on BEAST trees
-[CLOSED] kaathewisegit/aspartik #30  [python/benches] Benchmark RF matrices
-[CLOSED] kaathewisegit/aspartik #31  [data/python] Expose triplet distance
-[OPEN  ] github/advisory-database #9475  [GHSA-vwc7-r8mq-g2x9] adm-zip extraction follows destin...
-[MERGED] kaathewisegit/aspartik #32  [python/benches] Generalize tree-distance benchmark
+[OPEN  ] kaathewisegit/aspartik #37  Reuse Prüfer storage for random tree parents
+[OPEN  ] kaathewisegit/aspartik #34  [data] tree/binary: take buffers by value
+[MERGED] Kxrma47/qnode-repo-auditor #13  Monitor Docker base image updates
+[MERGED] Kxrma47/qnode-repo-auditor #12  Document QNode security assurance case
+[MERGED] Kxrma47/qnode-repo-auditor #11  Prepare QNode for OpenSSF Silver criteria
 ```
 
 <!-- RECENT-ACTIVITY:END -->
