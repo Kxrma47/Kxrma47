@@ -18,7 +18,7 @@ detection and GitHub repository intelligence.
 selected-work/
 ├── qnode/          [DEPLOYED]  repository and pull-request intelligence
 ├── aspartik/       [UPSTREAM]  phylogenetic research software
-├── swarm-ceop/     [RESEARCH]  constrained-optimization benchmarking
+├── bdsky/          [RESEARCH]  phylogenetic tree-prior evaluation
 └── hostwatch/      [PROTOTYPE] privacy-aware host anomaly detection
 ```
 
@@ -38,11 +38,10 @@ Rust and Python contributions covering phylogenetic tree models, distance
 algorithms, Python bindings, NEXUS/Newick parsing, SVG rendering, fixtures,
 tests, and benchmarks.
 
-### `[RESEARCH]` [CEOP research software](https://github.com/Wikience/swarm-ceop-2026)
+### `[RESEARCH]` [BDSKY Tree Prior Evaluator](https://github.com/Kxrma47/BDSKY-Tree-Prior-Evaluator)
 
-Reproducible evaluation tooling for evolutionary optimizers across 39
-constrained engineering problems, including implementation auditing,
-evaluation-budget calibration, validation, and execution control.
+Python implementation of a Birth-Death Skyline tree-prior likelihood with
+piecewise-constant rates, sampled-tree event modeling, and unit tests.
 
 ### `[PROTOTYPE]` [ML Host Anomaly Detection](https://github.com/Kxrma47/ml-host-anomaly-detection)
 
