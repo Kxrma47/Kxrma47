@@ -108,7 +108,8 @@ VISUALS="React SolidJS D3.js"
 ## `$ ./github-signal --summary`
 
 <div align="center">
-  <img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kxrma47&amp;theme=github_dark" alt="Kxrma47 GitHub statistics: commits, pull requests, issues, and contributed repositories" />
+  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kxrma47&amp;theme=github_dark" alt="Kxrma47 GitHub statistics: commits, pull requests, issues, and contributed repositories" />
+  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kxrma47&amp;theme=github_dark" alt="Pie-style chart of Kxrma47's top languages by commit count" />
 </div>
 
 ## `$ ./contribution-snake --watch`
