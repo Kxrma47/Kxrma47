@@ -54,11 +54,11 @@ reports.
 <!-- RECENT-ACTIVITY:START -->
 
 ```text
-[OPEN  ] kaathewisegit/aspartik #37  Reuse Prüfer storage for random tree parents
-[OPEN  ] kaathewisegit/aspartik #34  [data] tree/binary: take buffers by value
-[MERGED] Kxrma47/qnode-repo-auditor #13  Monitor Docker base image updates
-[MERGED] Kxrma47/qnode-repo-auditor #12  Document QNode security assurance case
-[MERGED] Kxrma47/qnode-repo-auditor #11  Prepare QNode for OpenSSF Silver criteria
+[OPEN  ] github/advisory-database #9477  [GHSA-p28p-j94q-pg32] http4k: `DigestAuthProvider.verif...
+[OPEN  ] kaathewisegit/aspartik #44  Check leaf bounds in random binary trees
+[OPEN  ] kaathewisegit/aspartik #43  Check leaf bounds in binary tree construction
+[OPEN  ] kaathewisegit/aspartik #42  Validate binary tree leaf counts
+[MERGED] kaathewisegit/aspartik #41  Canonicalize named binary trees
 ```
 
 <!-- RECENT-ACTIVITY:END -->
