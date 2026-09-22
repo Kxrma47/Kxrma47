@@ -54,11 +54,11 @@ reports.
 <!-- RECENT-ACTIVITY:START -->
 
 ```text
-[OPEN  ] github/advisory-database #9477  [GHSA-p28p-j94q-pg32] http4k: `DigestAuthProvider.verif...
-[OPEN  ] kaathewisegit/aspartik #44  Check leaf bounds in random binary trees
-[OPEN  ] kaathewisegit/aspartik #43  Check leaf bounds in binary tree construction
-[OPEN  ] kaathewisegit/aspartik #42  Validate binary tree leaf counts
-[MERGED] kaathewisegit/aspartik #41  Canonicalize named binary trees
+[OPEN  ] kaathewisegit/aspartik #46  Test binary tree leaf-count bounds
+[CLOSED] kaathewisegit/aspartik #43  Check leaf bounds in binary tree construction
+[CLOSED] kaathewisegit/aspartik #44  Check leaf bounds in random binary trees
+[CLOSED] kaathewisegit/aspartik #42  Validate binary tree leaf counts
+[MERGED] kaathewisegit/aspartik #39  Expose typed Python tree nodes
 ```
 
 <!-- RECENT-ACTIVITY:END -->
