@@ -54,11 +54,11 @@ reports.
 <!-- RECENT-ACTIVITY:START -->
 
 ```text
+[OPEN  ] kaathewisegit/aspartik #49  Improve triplet distance performance
+[MERGED] kaathewisegit/aspartik #45  Organize tree distance implementations
 [OPEN  ] kaathewisegit/aspartik #46  Test binary tree leaf-count bounds
 [CLOSED] kaathewisegit/aspartik #43  Check leaf bounds in binary tree construction
 [CLOSED] kaathewisegit/aspartik #44  Check leaf bounds in random binary trees
-[CLOSED] kaathewisegit/aspartik #42  Validate binary tree leaf counts
-[MERGED] kaathewisegit/aspartik #39  Expose typed Python tree nodes
 ```
 
 <!-- RECENT-ACTIVITY:END -->
