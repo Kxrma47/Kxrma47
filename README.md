@@ -54,11 +54,11 @@ reports.
 <!-- RECENT-ACTIVITY:START -->
 
 ```text
-[OPEN  ] kaathewisegit/aspartik #49  Improve triplet distance performance
-[MERGED] kaathewisegit/aspartik #45  Organize tree distance implementations
 [OPEN  ] kaathewisegit/aspartik #46  Test binary tree leaf-count bounds
-[CLOSED] kaathewisegit/aspartik #43  Check leaf bounds in binary tree construction
-[CLOSED] kaathewisegit/aspartik #44  Check leaf bounds in random binary trees
+[MERGED] kaathewisegit/aspartik #49  Improve triplet distance performance
+[MERGED] kaathewisegit/aspartik #45  Organize tree distance implementations
+[MERGED] servo/rust-smallvec #667  Move Splice iterator into its own module
+[MERGED] servo/rust-smallvec #666  Move IntoIter iterator into its own module
 ```
 
 <!-- RECENT-ACTIVITY:END -->
