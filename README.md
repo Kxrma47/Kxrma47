@@ -54,11 +54,11 @@ reports.
 <!-- RECENT-ACTIVITY:START -->
 
 ```text
-[OPEN  ] kaathewisegit/aspartik #46  Test binary tree leaf-count bounds
-[MERGED] kaathewisegit/aspartik #49  Improve triplet distance performance
-[MERGED] kaathewisegit/aspartik #45  Organize tree distance implementations
-[MERGED] servo/rust-smallvec #667  Move Splice iterator into its own module
-[MERGED] servo/rust-smallvec #666  Move IntoIter iterator into its own module
+[OPEN  ] kaathewisegit/aspartik #50  Reduce triplet pruning state traffic
+[OPEN  ] github/advisory-database #9476  [GHSA-hf57-cqmx-p4gr] OmniRoute ACP Custom-Agent Remote...
+[OPEN  ] github/advisory-database #9475  [GHSA-vwc7-r8mq-g2x9] adm-zip extraction follows destin...
+[OPEN  ] github/advisory-database #9474  [GHSA-2q42-4q24-7rgv] OpenAPI3 version value escapes `e...
+[OPEN  ] github/advisory-database #9469  [GHSA-992q-9gwp-7r79] ZITADEL: Auto-linking by email: I...
 ```
 
 <!-- RECENT-ACTIVITY:END -->
