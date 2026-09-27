@@ -54,11 +54,11 @@ reports.
 <!-- RECENT-ACTIVITY:START -->
 
 ```text
-[OPEN  ] kaathewisegit/aspartik #51  Avoid redundant RF clade hashing
-[OPEN  ] kaathewisegit/aspartik #50  Reduce triplet pruning state traffic
-[OPEN  ] github/advisory-database #9476  [GHSA-hf57-cqmx-p4gr] OmniRoute ACP Custom-Agent Remote...
-[OPEN  ] github/advisory-database #9475  [GHSA-vwc7-r8mq-g2x9] adm-zip extraction follows destin...
-[OPEN  ] github/advisory-database #9474  [GHSA-2q42-4q24-7rgv] OpenAPI3 version value escapes `e...
+[OPEN  ] kaathewisegit/aspartik #53  Use shared TaxonSet in binary trees
+[MERGED] kaathewisegit/aspartik #52  Add branch-score distance matrix
+[MERGED] Kxrma47/qnode-repo-auditor #18  Clarify private App access on public site
+[MERGED] kaathewisegit/aspartik #50  Reduce triplet pruning state traffic
+[MERGED] Kxrma47/qnode-repo-auditor #17  Classify private metrics connection failures
 ```
 
 <!-- RECENT-ACTIVITY:END -->
