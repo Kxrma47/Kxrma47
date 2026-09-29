@@ -54,11 +54,11 @@ reports.
 <!-- RECENT-ACTIVITY:START -->
 
 ```text
-[MERGED] kaathewisegit/aspartik #54  Use shared taxa in random binary trees
-[OPEN  ] kaathewisegit/aspartik #55  Benchmark tree distance matrices after #54
-[MERGED] kaathewisegit/aspartik #53  Use shared TaxonSet in binary trees
-[MERGED] Kxrma47/qnode-repo-auditor #19  Add PR intelligence and signal feedback
-[MERGED] kaathewisegit/aspartik #52  Add branch-score distance matrix
+[OPEN  ] github/advisory-database #9476  [GHSA-hf57-cqmx-p4gr] OmniRoute ACP Custom-Agent Remote...
+[OPEN  ] github/advisory-database #9474  [GHSA-2q42-4q24-7rgv] OpenAPI3 version value escapes `e...
+[OPEN  ] github/advisory-database #9475  [GHSA-vwc7-r8mq-g2x9] adm-zip extraction follows destin...
+[OPEN  ] github/advisory-database #9469  [GHSA-992q-9gwp-7r79] ZITADEL: Auto-linking by email: I...
+[MERGED] kaathewisegit/aspartik #55  Benchmark tree distance matrices after #54
 ```
 
 <!-- RECENT-ACTIVITY:END -->
