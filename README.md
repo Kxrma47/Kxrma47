@@ -54,11 +54,11 @@ reports.
 <!-- RECENT-ACTIVITY:START -->
 
 ```text
-[MERGED] Kxrma47/qnode-repo-auditor #30  Retry rate-limited public scans
-[MERGED] Kxrma47/qnode-repo-auditor #29  Distinguish empty reviewer workload
-[MERGED] Kxrma47/qnode-repo-auditor #28  Reuse installation token for public intelligence
-[MERGED] Kxrma47/qnode-repo-auditor #27  Add path-only review intelligence
-[MERGED] Kxrma47/qnode-repo-auditor #23  Add quota-free QNode demo
+[OPEN  ] kaathewisegit/aspartik #59  [data/tests] Check NEXUS-to-binary tree streaming
+[OPEN  ] kaathewisegit/aspartik #58  [data] Pass NEXUS translation sets to callbacks
+[OPEN  ] kaathewisegit/aspartik #57  [data] Stream NEXUS trees through callbacks
+[OPEN  ] kaathewisegit/aspartik #56  [data] Match translated Newick leaves to shared taxa
+[CLOSED] kaathewisegit/aspartik #27  [data/tests] NEXUS: add compatibility fixtures
 ```
 
 <!-- RECENT-ACTIVITY:END -->
