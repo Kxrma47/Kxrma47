@@ -56,9 +56,9 @@ reports.
 ```text
 [OPEN  ] kaathewisegit/aspartik #59  [data/tests] Check NEXUS-to-binary tree streaming
 [OPEN  ] kaathewisegit/aspartik #58  [data] Pass NEXUS translation sets to callbacks
-[OPEN  ] kaathewisegit/aspartik #57  [data] Stream NEXUS trees through callbacks
-[OPEN  ] kaathewisegit/aspartik #56  [data] Match translated Newick leaves to shared taxa
-[CLOSED] kaathewisegit/aspartik #27  [data/tests] NEXUS: add compatibility fixtures
+[OPEN  ] github/advisory-database #9476  [GHSA-hf57-cqmx-p4gr] OmniRoute ACP Custom-Agent Remote...
+[OPEN  ] github/advisory-database #9475  [GHSA-vwc7-r8mq-g2x9] adm-zip extraction follows destin...
+[OPEN  ] github/advisory-database #9474  [GHSA-2q42-4q24-7rgv] OpenAPI3 version value escapes `e...
 ```
 
 <!-- RECENT-ACTIVITY:END -->
