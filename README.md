@@ -54,7 +54,7 @@ reports.
 <!-- RECENT-ACTIVITY:START -->
 
 ```text
-[OPEN  ] kaathewisegit/aspartik #62  Use u64 for triplet distances
+[MERGED] kaathewisegit/aspartik #62  Use u64 for triplet distances
 [MERGED] kaathewisegit/aspartik #61  Parallelize triplet distance matrix
 [MERGED] kaathewisegit/aspartik #60  Add R tree distance matrix benchmark
 [MERGED] Kxrma47/qnode-repo-auditor #32  Add private Review Map session controls
